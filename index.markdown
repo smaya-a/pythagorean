@@ -29,13 +29,47 @@ Here and throughout your edition, you should use footnotes in Chicago Notes and 
 
 # The Source
 
-This section provides the main presentation of your source, as you have prepared it for readers (i.e., a facsimile, transcription, video, audio clip, etc.). This section is where we satisfy the first of the ADE’s three criteria for an electronic edition by providing a rigorous, accurate presentation of historical material.
+Theano to Euboule
 
-For the presentation of some sources, it may make sense to break up the presentation into multiple pages. For that, as needed, we can use a more book like template (binding multiple pages together) that I can provide. Nonetheless, this page should be the page from which all presentations of the source itself start.
+1. I hear that you are spoiling your children. The task of a good mother, 
+however, is not to endeavor to please her children, but instead to train them in self-restraint. Beware that you don’t act like an indulgent mother ratherthan a loving one, because pleasure ingrained in children leads to a lack of discipline. For what indeed is more pleasing to the youngsters than an ingrained pleasure? You must, my dear, nurture your children without 
+corrupting their nature. Nurture can corrupt children’s nature when their 
+minds seek, and their bodies experience pleasures, and thus they become 
+intellectually lazy and physically weak 10
+2. We should train the children we raise to face fear – even if this means
+they may have to grieve and suffer – so that they do not become slaves to
+such emotions, eager for pleasures and intolerant of hardship, but instead
+develop the utmost reverence for what is right, abstain from pleasures and
+withstand hardships. You should not make them gluttonous for food,
+spoiled with diverse pleasures, and wild through their unrestrained childish
+games, or allow them to say and try everything they want, while you are
+afraid when they cry, are proud when they laugh, laugh when they hit the
+nurse or insult you, provide shade in the summer and heat in the winter, and
+many other luxuries. Poor children know none of these (luxuries) and are
+brought up more easily, grow up not the worse for it, and turn out much
+stronger.
+3. You, however, nurse your children like the progeny of Sardanapalus,
+weakening the nature of your sons through luxurious living. What can
+become of a child who cries if he does not eat soon enough; who, when he
+eats, seeks pleasure in fancy food; who is exhausted when it is hot, shakes
+and collapses when it is cold; who argues when someone criticizes him,
+suffers when someone doesn’t satisfy his whims, is annoyed whenever he is
+not chewing, wastes time on idle pleasures, and wanders around endlessly
+mumbling to himself?
+4. Therefore, my dear, knowing that spoiled children when they grow up
+to be men, become slaves (scil. to passion), be careful to take away such
+pleasures, by making their meals austere rather than luxurious, allowing
+them to endure hunger and thirst, and even cold, heat, and shame before
+their peers and superiors. For only in this way can they become noble in
+spirit whether they are praised or reprimanded. For hardships, my friend,
+are a sort of dye mordant to which children are exposed when their virtue is
+perfected, and those who have been dipped long enough wear the hue of
+virtue as something of their own. So, make sure, my dear, that because of
+(your) indulgence, your children do not acquire the vices of insolence and
+utter worthlessness, in the same way that poorly tended vines bear inferior
+fruit.
 
-This may also be a space where editorial annotations are provided, such as notes on provenance, archival location, transcription, and more. If possible, a link to the source’s permanent digital location should be included here as well as a citation for that location. This should be done in consultation with the instructors, editorial board, and peer reviewers.
-
-Please note: some presentations may benefit from a multipage format (rather than one scrolling page, as here). I can make a multipage template available to you as needed.
+10 Literally: “they become pleasure-seeking in their souls, pleasure-loving in their bodies, and their souls become lazies and their bodies too weak”
 
 # About this Source
 
