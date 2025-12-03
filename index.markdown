@@ -37,6 +37,70 @@ This may also be a space where editorial annotations are provided, such as notes
 
 Please note: some presentations may benefit from a multipage format (rather than one scrolling page, as here). I can make a multipage template available to you as needed.
 
+Theano to Callisto (Greek)
+S VII 174, 176, 178; T 197–8; Hercher 605 No. 6
+
+Θεανὼ Καλλιστοῖ.
+
+Ταῖς νεωτέραις ὑμῖν ἡ μὲν ἐξουσία παρὰ τοῦ νόμου δέδο-
+ται τῶν οἰκετῶν ἄρχειν ἅμα τῷ γήμασθαι, ἡ δὲ διδασκαλία πα-
+ρὰ τῶν πρεσβυτέρων ἀπαντᾶν ὀφείλει περὶ τῆς οἰκονομίας ἀεὶ
+παραινούντων. καλῶς γὰρ ἔχει πρότερον μανθάνειν ἃ μὴ γιγνώ-
+(176) σκετε, καὶ τὴν συμβουλὴν οἰκειοτάτην τῶν πρεσβυτέρων ἡγεῖ-
+σθαι· ἐν τούτοις γὰρ παρθενοτροφεῖσθαι δεῖ νέαν ψυχήν. ἀρ-
+χὴ δέ ἐστιν οἴκου πρώτη γυναιξὶν ἀρχὴ θεραπαινῶν. ἔστι δέ,
+ὦ φίλη, μέγιστον ἐπὶ δουλείᾳ εὔνοια· αὕτη γὰρ οὐ συναγορά-
+ζεται τοῖς σώμασιν ἡ κτῆσις, ἀλλ’ ἐξ ὑστέρου γεννῶσιν αὐ- (10)
+τὴν οἱ συνετοὶ δεσπόται.
+Δικαία δὲ χρῆσις αἰτία τούτου, ἵνα μήτε διὰ τὸν κόπον
+κάμνωσι μήτε ἀδυνατῶσι διὰ τὴν ἔνδειαν· εἰσὶ γὰρ ἄνθρωποι
+τῇ φύσει. ἔνιαι δὲ κέρδος τὸ ἀκερδέστατον ἡγοῦνται, τὴν τῶν
+θεραπαινῶν κακουχίαν, βαρύνουσαι μὲν τοῖς ἔργοις, ὑποστελ- (15)
+λόμεναι δὲ τῶν ἐπιτηδείων· εἶτα ὀβολιαῖα κέρδη περιποιού-
+μεναι μεγάλοις ζημιοῦνται τιμήμασι, δυσνοίαις καὶ ἐπιβου-
+λαῖς κακίσταις. σοὶ δὲ πρόχειρον ἔστω τὸ μέτρημα τῶν σιτί-
+ων πρὸς τὸν ἀριθμὸν τῆς ἐριουργίας τοῖς ἐφ’ ἡμέραν πόνοις.
+Kαὶ πρὸς μὲν τὴν δίαιταν οὕτως· πρὸς δὲ τὰς ἀταξίας τὸ (20)
+σοὶ πρέπον, οὐ τὸ ἐκείναις συμφέρον ἐξυπηρετητέον. τιμᾶν
+μὲν γὰρ δεῖ θεραπαίνας τὸ κατ’ ἀξίαν· τὸ μὲν γὰρ ὠμὸν οὐκ
+οἴσει τῷ θυμῷ χάριν, τὸ δὲ μισοπόνηρον οὐχ ἧττον ὁ λογισμὸς
+βραβεύει. ἐὰν δὲ ἡ ὑπερβολὴ τῆς κακίας ἀνίκητος ᾖ, ἐξορι-
+στέον μετὰ πράσεως· τὸ γὰρ ἀλλότριον τῆς χρείας ἀλλοτρι-
+ούσθω καὶ τῆς κυρίας. ἔστω δέσοι γνώμη το ῦδε πρόεδρος,
+καθ’ ἣν γνώσῃ τὸ μὲν ἀληθὲς τῆς ἁμαρτίας πρὸς τὸ τῆς κα-
+ταγνώσεως δίκαιον, τὸ δὲ τῶν ἡμαρτημένων μέγεθος πρὸς τὸ
+κατ’ ἀξίαν τῆς κολάσεως.
+Δεσποτικαὶ δὲ καὶ συγγνώμη καὶ χάρις ἐφ’ ἡμαρτημένοις ζη-
+μίας ἀπαλλάττουσαι· [1] οὕτω δὲ καὶ τὸ πρέπον ἐπὶ τοῦ οἰκείου (30)
+(178) κατὰ τὸν τρόπον διαφυλάξει. ἔνιαι γάρ, ὦ φίλη, ὑπ’ ὠμότη-
+τος καὶ μαστίζουσι τὰ τῶν θεραπαινῶν σώματα, θηριούμεναι
+διὰ ζῆλον ἢ θυμόν, οἷον ὑπομνηματογραφούμεναι τὴν ὑπερβο-
+λὴν τῆς πικρίας· αἱ μὲν γὰρ ἀνηλώθησαν χρόνῳ διαπονούμεναι,
+αἱ δὲ φυγῇ τὴν σωτηρίαν ἐπορίσαντο, τινὲς δὲ ἐπαύσαντο τοῦ
+ζῆν αὐτόχειρι θανάτῳ μεταστᾶσαι, καὶ λοιπὸν ἡ τῆς δεσποίνης
+μόνωσις ὀδυρομένης τὴν οἰκείαν ἀβουλίαν ἔρημον μετάνοιαν
+ἔχει.
+Ἀλλ’, ὦ φίλη, ἴσθι μιμουμένη τὰ ὄργανα, ἃ <δια>φωνεῖ (40)
+μᾶλλον ἀνειμένα, ἐκρήττεται δὲ μᾶλλον ἐπιτεινόμενα. καὶ
+γὰρ ἐπὶ τῶν θεραπαινῶν ταὐτόν· ἡ μὲν ἄγαν ἄνεσις διαφωνί-
+αν ἐμποιεῖ τῆς πειθαρχίας, ἡ δὲ ἐπίτασις τῆς ἀνάγκης διά-
+λυσιν τῆς φύσεως. καὶ ἐπὶ τούτου δεῖ νοεῖν· μέτρον δ’
+ἐπὶ πᾶσιν ἄριστον. [ἔρρωσο.]
+**
+
+Theano to Callisto (English)
+The right to manage household slaves is given by custom to you younger women as soon as you are married. Nonetheless, instruction by older women, who are always offering advice in everything that concerns domestic affairs, is necessary. It is proper first to recognize what you don’t know and to consider the advice of older women most suitable. In these things a young mind must be educated from girlhood. The first domestic responsibility for women is the management of slave women, and the most important aspect in dealing with slaves is, my dear, their good will. For this is not something purchased as (our) property along with their bodies, but intelligent owners create it afterwards.
+And it is obtained through such fair treatment that they are neither
+exhausted by overwork nor lose strength because of deprivation. They are human beings by nature. Some women consider what is least profitable as a profit: the mistreatment of slave women, burdening them with chores while decreasing their rations. Securing petty profits in this way, they pay huge penalties: ill will and treachery of the worst kind. You, however, will have a convenient measure for the rations of food: in proportion to the amount of wool produced by a day’s work.
+This is all you need to do about their diet. As for lack of discipline,
+you must see to what suits you, not what is convenient for them. You should value slave-women according to their merit. Cruelty will not instill gratitude in their minds, while rational treatment assures discipline no less efficiently. If, however, it is impossible to suppress the excess of their malice, one must drive it out by means of selling them. Let the estranged slave, become (formally) estranged from the owner. [2] In this, let it be your chief concern that you establish first the fact of the offence, with the aim of giving a just verdict, second the magnitude of the offense, with the aim of giving an appropriate punishment.
+It is worthy of a woman who is in control to forgive and cancel punishment for transgressions; in doing so she shall uphold decency in a way that is true to her character. Some women, my dear, out of savagery actually whip the bodies of the slave women, and turn into beasts through jealousy or anger, as though carving (scil. into the slaves’ bodies) their extreme bitterness. Some servants have been killed through being worn out over time, others have sought salva-tion through escape, yet others died, having ended their lives with their own hands. Then at last the solitude of the mistress who bewails her own lack of judgment finally brings a change of mind—too late.
+But you, my dear, mindfully imitate (the art of tuning) string instru-
+ments, which are out of tune when excessively loose and snap when strung too tight. The same holds true for the slave women: excessive leniency produces dissonance of discipline; severity inevitably destroys their lives. Finally, one needs to keep in mind that “measure is best in all things.” [Farewell.]
+This sentence exceptionally follows Thesleff ’s text (198: 15–16). Städele eliminates χάρις and prints γνώμη rather than συγγνώμη: Δεσποτικὴ δὲ καὶ ἡ γνώμη [χάρις] ἐφ’ ἡμαρτημένοις ζημίας ἀπαλλάττουσα· (It is within the owner’s discretion to cancel punishment for transgressions.) These two concepts also appear in ThN and seem integral to the system of ethics presented in Theano’s letters. ↩
+
+Literally: “Let what is foreign to the need (of the house) be estranged from its mistress.” This process of estrangement is the opposite of oikeiōsis. ↩
+
 # About this Source
 
 Word count: 1000 words (excluding footnotes)
