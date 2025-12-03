@@ -37,6 +37,8 @@ This may also be a space where editorial annotations are provided, such as notes
 
 Please note: some presentations may benefit from a multipage format (rather than one scrolling page, as here). I can make a multipage template available to you as needed.
 
+
+
 ## **Theano to Callisto (Greek)**
 
 S VII 174, 176, 178; T 197–8; Hercher 605 No. 6
@@ -111,6 +113,7 @@ ments, which are out of tune when excessively loose and snap when strung too tig
 
 
 [^15]: Literally: “Let what is foreign to the need (of the house) be estranged from its mistress.” This process of estrangement is the opposite of oikeiōsis.
+```
 
 # About this Source
 
