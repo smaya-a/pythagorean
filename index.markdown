@@ -94,7 +94,6 @@ S VII 174, 176, 178; T 197–8; Hercher 605 No. 6
 
 [^14]: This sentence exceptionally follows Thesleff ’s text (198: 15–16). Städele eliminates χάρις and prints γνώμη rather than συγγνώμη: Δεσποτικὴ δὲ καὶ ἡ γνώμη [χάρις] ἐφ’ ἡμαρτημένοις ζημίας ἀπαλλάττουσα· (It is within the owner’s discretion to cancel punishment for transgressions.) These two concepts also appear in ThN and seem integral to the system of ethics presented in Theano’s letters.
 
-**
 
 ## Theano to Callisto (English)
 
@@ -113,7 +112,7 @@ ments, which are out of tune when excessively loose and snap when strung too tig
 
 
 [^15]: Literally: “Let what is foreign to the need (of the house) be estranged from its mistress.” This process of estrangement is the opposite of oikeiōsis.
-```
+
 
 # About this Source
 
