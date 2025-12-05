@@ -37,140 +37,140 @@ S VI 170, 172, 174; T 198–200; Hercher 604 No. 5
 
 
 Θεανὼ Νικοστράτῃ [χαίρειν]. 
-1. Ἤκουον τὴν τοῦ ἀνδρός σου παράνοιαν, ὅτι τὴν ἑταίραν 
-ἔχει, σὺ δὲ ὅτι ζηλοτυπεῖς αὐτόν. ἐγὼ δέ, ὦ φίλη, πολλοὺς 
-ἔγνωκα τῆς αὐτῆς νόσου· θηρεύονται γὰρ ὡς ἔοικεν ὑπὸ τῶν 
-γυναικῶν τούτων καὶ κατέχονται καὶ οὐκ ἔχουσι νοῦν. σὺ δὲ 
-ἄθυμος εἶ καὶ νύκτα καὶ μεθ’ ἡμέραν καὶ ἀδημονεῖς καὶ μη-
-χανᾷ τι κατ’ αὐτοῦ. μὴ σύ γε, ὦ φίλη· γαμετῆς γὰρ ἀρετή 
-ἐστιν οὐχ ἡ παρατήρησις τἀνδρός, ἀλλ’ ἡ συμπεριφορά· συμ-
-περιφορὰ δέ ἐστι τὸ φέρειν ἄγνοιαν. εἶθ’ ἑταίρᾳ μὲν πρὸς 
-ἡδονὴν ὁμιλεῖ, γαμετῇ δὲ πρὸς τὸ συμφέρον· συμφέρον δὲ κα-        (10) 
+1. Ἤκουον τὴν τοῦ ἀνδρός σου παράνοιαν, ὅτι τὴν ἑταίραν   
+ἔχει, σὺ δὲ ὅτι ζηλοτυπεῖς αὐτόν. ἐγὼ δέ, ὦ φίλη, πολλοὺς   
+ἔγνωκα τῆς αὐτῆς νόσου· θηρεύονται γὰρ ὡς ἔοικεν ὑπὸ τῶν   
+γυναικῶν τούτων καὶ κατέχονται καὶ οὐκ ἔχουσι νοῦν. σὺ δὲ   
+ἄθυμος εἶ καὶ νύκτα καὶ μεθ’ ἡμέραν καὶ ἀδημονεῖς καὶ μη-  
+χανᾷ τι κατ’ αὐτοῦ. μὴ σύ γε, ὦ φίλη· γαμετῆς γὰρ ἀρετή   
+ἐστιν οὐχ ἡ παρατήρησις τἀνδρός, ἀλλ’ ἡ συμπεριφορά· συμ-  
+περιφορὰ δέ ἐστι τὸ φέρειν ἄγνοιαν. εἶθ’ ἑταίρᾳ μὲν πρὸς   
+ἡδονὴν ὁμιλεῖ, γαμετῇ δὲ πρὸς τὸ συμφέρον· συμφέρον δὲ κα-        (10)   
 κοῖς κακὰ μὴ μίσγειν μηδὲ παρανοίᾳ παράνοιαν ἐπάγειν. 
 2. Ἔνια δὲ ἁμαρτήματα, φίλη, ἐλεγχόμενα μὲν ἐπὶ πλέον ἀν-
 ερεθίζεται, σιωπώμενα δὲ παύεται μᾶλλον, ὡς τὸ πῦρ ἡσυχίᾳ 
 φασὶ σβέννυσθαι. ἐὰν γὰρ βουλόμενόν σε λεληθέναι δοκεῖν 
-ἐλέγχουσα ἀφαιρήσῃς τὸ παρακάλυμμα τοῦ πάθους, καὶ φανε-        (15) 
-ρῶς ἁμαρτήσεται. σὺ δὲ τὴν φιλίαν ἡγῇ <**> τοῦ ἀνδρὸς οὐκ 
-ἐν τῇ καλοκαγαθίᾳ· τοῦτο γὰρ ἡ χάρις τῆς κοινωνίας. νόμι-
-ζε οὖν πρὸς μὲν τὴν ἑταίραν ῥαθυμήσοντα πορεύεσθαι ἐκεῖ- 
-νον, σοὶ δὲ συμβιώσαντα παρεῖναι, καὶ σὲ μὲν φιλεῖν κατὰ 
-γνώμην, ἐκείνην δὲ τῷ πάθει.                                                  (20)
-3. Βραχὺς δὲ ὁ τούτου καιρός· ἅμα γὰρ ἀκμὴν ἔχει καὶ κό- 
-ρον, καὶ παρίσταται ταχὺ καὶ παύεται. ὀλιγοχρόνιος γὰρ ὁ 
-(172) ἔρως ἐστι πρὸς ἑταίραν ἀνδρὶ μὴ σφόδρα κακῷ· τί γάρ ἐστι 
-ματαιότερον ἐπιθυμίας ἀπολαυούσης ἀδίκου; διὸ καὶ μειῶν 
-τὸν βίον καὶ διαβάλλων τὸ εὔσχημον αἰσθανθήσεταί ποτε· 
-οὐδεὶς γὰρ ἐπιμένει φρονῶν αὐθαιρέτῳ βλάβῃ. καλούμενος 
-οὖν ὑπὸ τῶν πρός σε δικαίων καὶ τὰς περὶ τὸν βίον ἐλαττώ- 
-σεις ὁρῶν [αἰσθήσεταί ποτέ σου] καὶ τὴν ἀπὸ τῆς καταγνώ-
-σεως ὕβριν οὐ φέρων ταχὺ μεταγνώσεται. 
-4. Σὺ δέ, φίλη, ζῆθι οὐχ ἑταίραις ἀποκρινομένη, τῇ μὲν εὐ-             (30) 
-ταξίᾳ πρὸς τὸν ἄνδρα διαφέρουσα, τῇ δὲ ἐπιμελείᾳ πρὸς τὸν 
-οἶκον, τῇ δὲ συναλλαγῇ περὶ τὰς χρωμένας, τῇ δὲ φιλοστορ- 
-γίᾳ περὶ τὰ τέκνα. οὐ ζηλοτυπητέον οὖν σοι πρὸς ἐκείνην
-(πρὸς γὰρ τὰς ἐναρέτους ἐκτείνειν τὸν ζῆλον καλόν), ἑαυ- 
-τὴν δὲ παρεκτέον ἐπιτηδείαν ταῖς διαλλαγαῖς· τὰ γὰρ καλὰ 
-ἤθη καὶ παρ’ ἐχθροῖς εὔνοιαν φέρει, φίλη, καὶ μόνης καλο- 
-καγαθίας ἔργον ἐστὶν ἡ τιμή, ταύτῃ δὲ καὶ δυνατὸν ἀνδρὸς 
-ἐξουσίαν καθυπερέχειν γυναικὶ καὶ τιμᾶσθαι πλέον ἢ θερα-
-πεύειν †τὸν ἐχθρόν. 
-5. Καρτερούμενος γοῦν ὑπὸ σοῦ μᾶλλον αἰσχύνεται, τάχιον              (40) 
-δὲ διαλλαγῆναι θελήσει, προσπαθέστερον δὲ φιλοστοργήσει 
-συνεγνωκὼς τὴν ἀδικίαν τὴν εἰς σέ, κατανοῶν τε τὴν προσ- 
-οχὴν ἐπὶ τοῦ βίου καὶ πεῖραν τῆς στοργῆς λαμβάνων τῆς πρὸς 
-αὑτόν. ὥσπερ δὲ αἱ κακοπάθειαι τοῦ σώματος ἡδείας τὰς ἀνα- 
-παύσεις ποιοῦσιν, οὕτως αἱ διαφοραὶ τῶν φίλων οἰκειοτέρας 
-τὰς διαλλαγὰς φέρουσιν. 
-6. Σὺ δὲ καὶ τὰ βουλεύματα τοῦ πάθους ἀντίθες· νοσοῦντος 
-γὰρ ἐκείνου καὶ σὲ παρακαλεῖ νοσεῖν ταῖς λύπαις, καὶ ἁμαρ- 
-τάνοντος περὶ τὸ εὔσχημον καὶ σὲ περὶ τὸν κόσμον ἁμαρτά- 
-(174) νειν, καὶ καταβλάπτοντος τὸν βίον καὶ σὲ καταβλάπτειν τὸ     (50) 
-συμφέρον. ἀφ’ ὧν ἐπ’ αὐτὸν συντετάχθαι δόξεις καὶ κολαζο- 
-μένη ἐκεῖνον καὶ σεαυτὴν κολάζειν. εἰ γὰρ καὶ ἀφεμένη πο- 
-ρεύσῃ, ἑτέρου ἄρα πειραθήσῃ ἀνδρὸς τοῦ προτέρου ἀπαλλαγεῖ- 
-σα, κἂν ἐκεῖνος ἁμάρτῃ τὰ ὅμοια, πάλιν ἄλλου (οὐ φορητὴ 
-γὰρ νέαις χηρεία), ἢ μόνη μενεῖς ἀπ’ ἀνδρὸς οἷόν περ ἄζυξ. 
-7. Ἀλλ’ ἀμελήσεις τοῦ οἴκου καὶ καταφθερεῖς τὸν ἄνδρα; ἐπ- 
-ωδύνου ἄρα βίου συνδιαιρήσῃ τὴν βλάβην. ἀλλ’ ἀμυνεῖ τὴν 
-ἑταίραν; περιστήσεταί σε φυλαττομένη, κἂν ἀμύνῃ, μάχιμός 
-ἐστιν οὐκ ἐρυθριῶσα γυνή. ἀλλὰ καλὸν ὁσημέραι μάχεσθαι πρὸς 
-τὸν ἄνδρα; καὶ τί πλέον; αἱ γὰρ μάχαι καὶ αἱ λοιδορίαι τὴν               (60) 
-μὲν ἀκολασίαν οὐ παύουσιν, τὴν δὲ διαφορὰν ταῖς προκοπαῖς 
-αὔξουσιν. τί δέ; βουλεύσῃ τι κατ’ ἐκείνου; μή, φίλη. ζηλο- 
-τυπίας κρατεῖν ἡ τραγῳδία ἐδίδαξε δραμάτων ἔχουσα σύνταξιν, 
-ἐν οἷς παρηνόμησε Μήδεια. ἀλλ’ὥσπερ τῆς νόσου τῶν ὀφθαλ-
-μῶν ἀπέχειν δεῖ τὰς χεῖρας, οὕτως καὶ σὺ τοῦ πάθους χώρι-
-ζε τὴν προσποίησιν· διακαρτεροῦσα γὰρ θᾶττον τὸ πάθος σβέ-
-σεις.
+ἐλέγχουσα ἀφαιρήσῃς τὸ παρακάλυμμα τοῦ πάθους, καὶ φανε-          (15)   
+ρῶς ἁμαρτήσεται. σὺ δὲ τὴν φιλίαν ἡγῇ <**> τοῦ ἀνδρὸς οὐκ   
+ἐν τῇ καλοκαγαθίᾳ· τοῦτο γὰρ ἡ χάρις τῆς κοινωνίας. νόμι-  
+ζε οὖν πρὸς μὲν τὴν ἑταίραν ῥαθυμήσοντα πορεύεσθαι ἐκεῖ-   
+νον, σοὶ δὲ συμβιώσαντα παρεῖναι, καὶ σὲ μὲν φιλεῖν κατὰ   
+γνώμην, ἐκείνην δὲ τῷ πάθει.                                       (20)  
+3. Βραχὺς δὲ ὁ τούτου καιρός· ἅμα γὰρ ἀκμὴν ἔχει καὶ κό-   
+ρον, καὶ παρίσταται ταχὺ καὶ παύεται. ὀλιγοχρόνιος γὰρ ὁ   
+(172) ἔρως ἐστι πρὸς ἑταίραν ἀνδρὶ μὴ σφόδρα κακῷ· τί γάρ ἐστι   
+ματαιότερον ἐπιθυμίας ἀπολαυούσης ἀδίκου; διὸ καὶ μειῶν   
+τὸν βίον καὶ διαβάλλων τὸ εὔσχημον αἰσθανθήσεταί ποτε·   
+οὐδεὶς γὰρ ἐπιμένει φρονῶν αὐθαιρέτῳ βλάβῃ. καλούμενος   
+οὖν ὑπὸ τῶν πρός σε δικαίων καὶ τὰς περὶ τὸν βίον ἐλαττώ-   
+σεις ὁρῶν [αἰσθήσεταί ποτέ σου] καὶ τὴν ἀπὸ τῆς καταγνώ-  
+σεως ὕβριν οὐ φέρων ταχὺ μεταγνώσεται.   
+4. Σὺ δέ, φίλη, ζῆθι οὐχ ἑταίραις ἀποκρινομένη, τῇ μὲν εὐ-           (30)     
+ταξίᾳ πρὸς τὸν ἄνδρα διαφέρουσα, τῇ δὲ ἐπιμελείᾳ πρὸς τὸν   
+οἶκον, τῇ δὲ συναλλαγῇ περὶ τὰς χρωμένας, τῇ δὲ φιλοστορ-   
+γίᾳ περὶ τὰ τέκνα. οὐ ζηλοτυπητέον οὖν σοι πρὸς ἐκείνην  
+(πρὸς γὰρ τὰς ἐναρέτους ἐκτείνειν τὸν ζῆλον καλόν), ἑαυ-   
+τὴν δὲ παρεκτέον ἐπιτηδείαν ταῖς διαλλαγαῖς· τὰ γὰρ καλὰ   
+ἤθη καὶ παρ’ ἐχθροῖς εὔνοιαν φέρει, φίλη, καὶ μόνης καλο-   
+καγαθίας ἔργον ἐστὶν ἡ τιμή, ταύτῃ δὲ καὶ δυνατὸν ἀνδρὸς   
+ἐξουσίαν καθυπερέχειν γυναικὶ καὶ τιμᾶσθαι πλέον ἢ θερα-  
+πεύειν †τὸν ἐχθρόν.   
+5. Καρτερούμενος γοῦν ὑπὸ σοῦ μᾶλλον αἰσχύνεται, τάχιον              (40)   
+δὲ διαλλαγῆναι θελήσει, προσπαθέστερον δὲ φιλοστοργήσει   
+συνεγνωκὼς τὴν ἀδικίαν τὴν εἰς σέ, κατανοῶν τε τὴν προσ-   
+οχὴν ἐπὶ τοῦ βίου καὶ πεῖραν τῆς στοργῆς λαμβάνων τῆς πρὸς   
+αὑτόν. ὥσπερ δὲ αἱ κακοπάθειαι τοῦ σώματος ἡδείας τὰς ἀνα-   
+παύσεις ποιοῦσιν, οὕτως αἱ διαφοραὶ τῶν φίλων οἰκειοτέρας   
+τὰς διαλλαγὰς φέρουσιν.   
+6. Σὺ δὲ καὶ τὰ βουλεύματα τοῦ πάθους ἀντίθες· νοσοῦντος   
+γὰρ ἐκείνου καὶ σὲ παρακαλεῖ νοσεῖν ταῖς λύπαις, καὶ ἁμαρ-   
+τάνοντος περὶ τὸ εὔσχημον καὶ σὲ περὶ τὸν κόσμον ἁμαρτά-   
+(174) νειν, καὶ καταβλάπτοντος τὸν βίον καὶ σὲ καταβλάπτειν τὸ     (50)   
+συμφέρον. ἀφ’ ὧν ἐπ’ αὐτὸν συντετάχθαι δόξεις καὶ κολαζο-   
+μένη ἐκεῖνον καὶ σεαυτὴν κολάζειν. εἰ γὰρ καὶ ἀφεμένη πο-   
+ρεύσῃ, ἑτέρου ἄρα πειραθήσῃ ἀνδρὸς τοῦ προτέρου ἀπαλλαγεῖ-   
+σα, κἂν ἐκεῖνος ἁμάρτῃ τὰ ὅμοια, πάλιν ἄλλου (οὐ φορητὴ   
+γὰρ νέαις χηρεία), ἢ μόνη μενεῖς ἀπ’ ἀνδρὸς οἷόν περ ἄζυξ.   
+7. Ἀλλ’ ἀμελήσεις τοῦ οἴκου καὶ καταφθερεῖς τὸν ἄνδρα; ἐπ-   
+ωδύνου ἄρα βίου συνδιαιρήσῃ τὴν βλάβην. ἀλλ’ ἀμυνεῖ τὴν   
+ἑταίραν; περιστήσεταί σε φυλαττομένη, κἂν ἀμύνῃ, μάχιμός   
+ἐστιν οὐκ ἐρυθριῶσα γυνή. ἀλλὰ καλὸν ὁσημέραι μάχεσθαι πρὸς   
+τὸν ἄνδρα; καὶ τί πλέον; αἱ γὰρ μάχαι καὶ αἱ λοιδορίαι τὴν             (60)   
+μὲν ἀκολασίαν οὐ παύουσιν, τὴν δὲ διαφορὰν ταῖς προκοπαῖς   
+αὔξουσιν. τί δέ; βουλεύσῃ τι κατ’ ἐκείνου; μή, φίλη. ζηλο-   
+τυπίας κρατεῖν ἡ τραγῳδία ἐδίδαξε δραμάτων ἔχουσα σύνταξιν,   
+ἐν οἷς παρηνόμησε Μήδεια. ἀλλ’ὥσπερ τῆς νόσου τῶν ὀφθαλ-  
+μῶν ἀπέχειν δεῖ τὰς χεῖρας, οὕτως καὶ σὺ τοῦ πάθους χώρι-  
+ζε τὴν προσποίησιν· διακαρτεροῦσα γὰρ θᾶττον τὸ πάθος σβέ-  
+σεις.  
 
 
 ### English
 
 
-1. I have heard about your husband’s madness; he apparently keeps a hetaera 
-and you are jealous of him. I have known, my dear, many men with this 
-disease. It would seem that they are hunted down and captured by such 
-women and lose their mind. You, however, despair night and day, and in 
-your distress plot against him. Don’t do this, my dear! The virtue of a wife 
-lies not in keeping a close watch on her husband’s affairs, but in being his 
-companion. And companionship means tolerating his error. Your husband 
-associates with the hetaera for pleasure, with his wife for what is beneficial 
-(scil. for him). And it is beneficial not to join misery to misery and not to add 
-madness to madness.
-2. Certain transgressions, my dear, when examined are made even worse, 
-but when passed over in silence instead they come to an end, just as they say 
-that fire dies out when undisturbed. If you expose him, when he wants you 
-to appear not to have noticed, you will lift the veil of his disease and he will 
-be openly doing wrong. You think that the love of your husband . . . is not up
-to the moral standard:[^11] for this (high standard) is expected of your rela- 
-tionship. Consider then, that while he visits the hetaera for pleasure, he stays 
-with you as your lifelong companion and that, while his love for you is 
-rational, his love for her is driven by passion. 
-3. And an affair of passion is short-lived; as soon as it peaks it becomes too 
-much; it begins and ends quickly. A man who is not entirely evil will not be 
-in love with a hetaera for long. For what is more fruitless than a desire 
-enjoyed unfairly? Therefore, at some point he will realize that he is dimin- 
-ishing his assets and offending decency. No one consciously continues to be 
-self-destructive. Called back to you, then, by a sense of fairness towards you, 
-seeing how his assets have diminished [for at some point he will take note of 
-you], and unable to bear the contempt that comes with moral condemna- 
-tion, he will soon change his mind.
-4. As for you, my dear, don’t spend your life responding to hetaerae but 
-distinguish yourself by your tactful behavior towards your husband, by care
-for the household, friendly behavior towards your acquaintances, and tender 
-love for your children. You should not compete with this woman (for it is 
-commendable to extend good rivalry only towards those who are virtuous), 
-but rather prepare yourself to make conciliatory gestures. Noble character 
-incites good will even among enemies, my dear, and only upright standards 
-can achieve respect, and, in this way, it is possible for a woman to surpass her 
-husband’s authority and be respected instead of serving the enemy.[^12] 
-5. If you tolerate his behavior, he will be more ashamed and will desire 
-reconciliation sooner. He will love you even more tenderly when he recog- 
-nizes his unfair treatment of you, realizes that you take care of his property,
-and has proof of your love for him. In the same way that the unpleasant 
-sensations of the body render the moments of respite all the more pleasant, 
-discord among friends leads to more intimate moments of reconciliation.
-6. You, however, must resist the prompts of passion. For it demands that 
-you fall ill from sorrow because of your husband’s illness, that you disregard 
-decency because of his disregard of morals, that you act against your best 
-interests because he is ruining his life. If you yield,[^13] you will give the 
-impression that you have joined him in battle, and by chastising him you 
-also chastise yourself. If you break up with him and leave, you will test 
-another husband, having left the first one, and, should he err in similar 
-matters, again, another husband (for being single is unbearable for young 
-women). Or perhaps you will remain alone without a husband, like a spinster.
-7. So, are you going to neglect your house and ruin your husband? If so, you 
-shall choose a life of pain and suffering. You say that you are defending 
-yourself against the hetaera? She will be careful to avoid you, and were she to defend 
-herself, a woman who does not blush can put up a fight. So, is it good to quarrel 
-with your husband every day? And what is gained? Quarrels and insults do not 
-put an end to irresponsibility, but progressively increase discord. What else? 
-Are you going to plot against him? Please don’t, my dear. The tragedy that 
-contains the sequence of events in which Medea became a criminal has taught 
-us to control jealousy. Just as when one’s eyes are sick, one has to keep one’s 
-hands away from them, so you too avoid interfering with his illness. Through 
-endurance you will put an end to his illness sooner.
+1. I have heard about your husband’s madness; he apparently keeps a hetaera   
+and you are jealous of him. I have known, my dear, many men with this   
+disease. It would seem that they are hunted down and captured by such   
+women and lose their mind. You, however, despair night and day, and in   
+your distress plot against him. Don’t do this, my dear! The virtue of a wife   
+lies not in keeping a close watch on her husband’s affairs, but in being his   
+companion. And companionship means tolerating his error. Your husband   
+associates with the hetaera for pleasure, with his wife for what is beneficial   
+(scil. for him). And it is beneficial not to join misery to misery and not to add   
+madness to madness.  
+2. Certain transgressions, my dear, when examined are made even worse,   
+but when passed over in silence instead they come to an end, just as they say   
+that fire dies out when undisturbed. If you expose him, when he wants you   
+to appear not to have noticed, you will lift the veil of his disease and he will   
+be openly doing wrong. You think that the love of your husband . . . is not up  
+to the moral standard:[^11] for this (high standard) is expected of your rela-   
+tionship. Consider then, that while he visits the hetaera for pleasure, he stays   
+with you as your lifelong companion and that, while his love for you is   
+rational, his love for her is driven by passion.   
+3. And an affair of passion is short-lived; as soon as it peaks it becomes too   
+much; it begins and ends quickly. A man who is not entirely evil will not be   
+in love with a hetaera for long. For what is more fruitless than a desire   
+enjoyed unfairly? Therefore, at some point he will realize that he is dimin-   
+ishing his assets and offending decency. No one consciously continues to be   
+self-destructive. Called back to you, then, by a sense of fairness towards you,   
+seeing how his assets have diminished [for at some point he will take note of   
+you], and unable to bear the contempt that comes with moral condemna-   
+tion, he will soon change his mind.  
+4. As for you, my dear, don’t spend your life responding to hetaerae but   
+distinguish yourself by your tactful behavior towards your husband, by care  
+for the household, friendly behavior towards your acquaintances, and tender   
+love for your children. You should not compete with this woman (for it is   
+commendable to extend good rivalry only towards those who are virtuous),   
+but rather prepare yourself to make conciliatory gestures. Noble character   
+incites good will even among enemies, my dear, and only upright standards   
+can achieve respect, and, in this way, it is possible for a woman to surpass her   
+husband’s authority and be respected instead of serving the enemy.[^12]   
+5. If you tolerate his behavior, he will be more ashamed and will desire   
+reconciliation sooner. He will love you even more tenderly when he recog-   
+nizes his unfair treatment of you, realizes that you take care of his property,  
+and has proof of your love for him. In the same way that the unpleasant   
+sensations of the body render the moments of respite all the more pleasant,   
+discord among friends leads to more intimate moments of reconciliation.  
+6. You, however, must resist the prompts of passion. For it demands that   
+you fall ill from sorrow because of your husband’s illness, that you disregard   
+decency because of his disregard of morals, that you act against your best   
+interests because he is ruining his life. If you yield,[^13] you will give the   
+impression that you have joined him in battle, and by chastising him you   
+also chastise yourself. If you break up with him and leave, you will test   
+another husband, having left the first one, and, should he err in similar   
+matters, again, another husband (for being single is unbearable for young   
+women). Or perhaps you will remain alone without a husband, like a spinster.  
+7. So, are you going to neglect your house and ruin your husband? If so, you   
+shall choose a life of pain and suffering. You say that you are defending   
+yourself against the hetaera? She will be careful to avoid you, and were she to defend   
+herself, a woman who does not blush can put up a fight. So, is it good to quarrel   
+with your husband every day? And what is gained? Quarrels and insults do not   
+put an end to irresponsibility, but progressively increase discord. What else?   
+Are you going to plot against him? Please don’t, my dear. The tragedy that   
+contains the sequence of events in which Medea became a criminal has taught   
+us to control jealousy. Just as when one’s eyes are sick, one has to keep one’s   
+hands away from them, so you too avoid interfering with his illness. Through   
+endurance you will put an end to his illness sooner.  
 
 
 
@@ -194,50 +194,50 @@ In this letter to Callisto, Theano instructs Callisto on how to manage household
 S VII 174, 176, 178; T 197–8; Hercher 605 No. 6
 
 Θεανὼ Καλλιστοῖ.
-1. Ταῖς νεωτέραις ὑμῖν ἡ μὲν ἐξουσία παρὰ τοῦ νόμου δέδο-
-ται τῶν οἰκετῶν ἄρχειν ἅμα τῷ γήμασθαι, ἡ δὲ διδασκαλία πα-
-ρὰ τῶν πρεσβυτέρων ἀπαντᾶν ὀφείλει περὶ τῆς οἰκονομίας ἀεὶ
-παραινούντων. καλῶς γὰρ ἔχει πρότερον μανθάνειν ἃ μὴ γιγνώ-
-(176) σκετε, καὶ τὴν συμβουλὴν οἰκειοτάτην τῶν πρεσβυτέρων ἡγεῖ-
-σθαι· ἐν τούτοις γὰρ παρθενοτροφεῖσθαι δεῖ νέαν ψυχήν. ἀρ-
-χὴ δέ ἐστιν οἴκου πρώτη γυναιξὶν ἀρχὴ θεραπαινῶν. ἔστι δέ,
-ὦ φίλη, μέγιστον ἐπὶ δουλείᾳ εὔνοια· αὕτη γὰρ οὐ συναγορά-
-ζεται τοῖς σώμασιν ἡ κτῆσις, ἀλλ’ ἐξ ὑστέρου γεννῶσιν αὐ- (10)
-τὴν οἱ συνετοὶ δεσπόται.
-2. Δικαία δὲ χρῆσις αἰτία τούτου, ἵνα μήτε διὰ τὸν κόπον
-κάμνωσι μήτε ἀδυνατῶσι διὰ τὴν ἔνδειαν· εἰσὶ γὰρ ἄνθρωποι
-τῇ φύσει. ἔνιαι δὲ κέρδος τὸ ἀκερδέστατον ἡγοῦνται, τὴν τῶν
-θεραπαινῶν κακουχίαν, βαρύνουσαι μὲν τοῖς ἔργοις, ὑποστελ- (15)
-λόμεναι δὲ τῶν ἐπιτηδείων· εἶτα ὀβολιαῖα κέρδη περιποιού-
-μεναι μεγάλοις ζημιοῦνται τιμήμασι, δυσνοίαις καὶ ἐπιβου-
-λαῖς κακίσταις. σοὶ δὲ πρόχειρον ἔστω τὸ μέτρημα τῶν σιτί-
-ων πρὸς τὸν ἀριθμὸν τῆς ἐριουργίας τοῖς ἐφ’ ἡμέραν πόνοις.
-3. Kαὶ πρὸς μὲν τὴν δίαιταν οὕτως· πρὸς δὲ τὰς ἀταξίας τὸ (20)
-σοὶ πρέπον, οὐ τὸ ἐκείναις συμφέρον ἐξυπηρετητέον. τιμᾶν
-μὲν γὰρ δεῖ θεραπαίνας τὸ κατ’ ἀξίαν· τὸ μὲν γὰρ ὠμὸν οὐκ
-οἴσει τῷ θυμῷ χάριν, τὸ δὲ μισοπόνηρον οὐχ ἧττον ὁ λογισμὸς
-βραβεύει. ἐὰν δὲ ἡ ὑπερβολὴ τῆς κακίας ἀνίκητος ᾖ, ἐξορι-
-στέον μετὰ πράσεως· τὸ γὰρ ἀλλότριον τῆς χρείας ἀλλοτρι-
-ούσθω καὶ τῆς κυρίας. ἔστω δέσοι γνώμη το ῦδε πρόεδρος,
-καθ’ ἣν γνώσῃ τὸ μὲν ἀληθὲς τῆς ἁμαρτίας πρὸς τὸ τῆς κα-
-ταγνώσεως δίκαιον, τὸ δὲ τῶν ἡμαρτημένων μέγεθος πρὸς τὸ
-κατ’ ἀξίαν τῆς κολάσεως.
-4. Δεσποτικαὶ δὲ καὶ συγγνώμη καὶ χάρις ἐφ’ ἡμαρτημένοις ζη-
-μίας ἀπαλλάττουσαι· [^14] οὕτω δὲ καὶ τὸ πρέπον ἐπὶ τοῦ οἰκείου (30)
-(178) κατὰ τὸν τρόπον διαφυλάξει. ἔνιαι γάρ, ὦ φίλη, ὑπ’ ὠμότη-
-τος καὶ μαστίζουσι τὰ τῶν θεραπαινῶν σώματα, θηριούμεναι
-διὰ ζῆλον ἢ θυμόν, οἷον ὑπομνηματογραφούμεναι τὴν ὑπερβο-
-λὴν τῆς πικρίας· αἱ μὲν γὰρ ἀνηλώθησαν χρόνῳ διαπονούμεναι,
-αἱ δὲ φυγῇ τὴν σωτηρίαν ἐπορίσαντο, τινὲς δὲ ἐπαύσαντο τοῦ
-ζῆν αὐτόχειρι θανάτῳ μεταστᾶσαι, καὶ λοιπὸν ἡ τῆς δεσποίνης
-μόνωσις ὀδυρομένης τὴν οἰκείαν ἀβουλίαν ἔρημον μετάνοιαν
-ἔχει.
-5. Ἀλλ’, ὦ φίλη, ἴσθι μιμουμένη τὰ ὄργανα, ἃ <δια>φωνεῖ (40)
-μᾶλλον ἀνειμένα, ἐκρήττεται δὲ μᾶλλον ἐπιτεινόμενα. καὶ
-γὰρ ἐπὶ τῶν θεραπαινῶν ταὐτόν· ἡ μὲν ἄγαν ἄνεσις διαφωνί-
-αν ἐμποιεῖ τῆς πειθαρχίας, ἡ δὲ ἐπίτασις τῆς ἀνάγκης διά-
-λυσιν τῆς φύσεως. καὶ ἐπὶ τούτου δεῖ νοεῖν· μέτρον δ’
-ἐπὶ πᾶσιν ἄριστον. [ἔρρωσο.]
+1. Ταῖς νεωτέραις ὑμῖν ἡ μὲν ἐξουσία παρὰ τοῦ νόμου δέδο-  
+ται τῶν οἰκετῶν ἄρχειν ἅμα τῷ γήμασθαι, ἡ δὲ διδασκαλία πα-  
+ρὰ τῶν πρεσβυτέρων ἀπαντᾶν ὀφείλει περὶ τῆς οἰκονομίας ἀεὶ  
+παραινούντων. καλῶς γὰρ ἔχει πρότερον μανθάνειν ἃ μὴ γιγνώ-  
+(176) σκετε, καὶ τὴν συμβουλὴν οἰκειοτάτην τῶν πρεσβυτέρων ἡγεῖ-  
+σθαι· ἐν τούτοις γὰρ παρθενοτροφεῖσθαι δεῖ νέαν ψυχήν. ἀρ-  
+χὴ δέ ἐστιν οἴκου πρώτη γυναιξὶν ἀρχὴ θεραπαινῶν. ἔστι δέ,  
+ὦ φίλη, μέγιστον ἐπὶ δουλείᾳ εὔνοια· αὕτη γὰρ οὐ συναγορά-  
+ζεται τοῖς σώμασιν ἡ κτῆσις, ἀλλ’ ἐξ ὑστέρου γεννῶσιν αὐ- (10)  
+τὴν οἱ συνετοὶ δεσπόται.  
+2. Δικαία δὲ χρῆσις αἰτία τούτου, ἵνα μήτε διὰ τὸν κόπον  
+κάμνωσι μήτε ἀδυνατῶσι διὰ τὴν ἔνδειαν· εἰσὶ γὰρ ἄνθρωποι  
+τῇ φύσει. ἔνιαι δὲ κέρδος τὸ ἀκερδέστατον ἡγοῦνται, τὴν τῶν  
+θεραπαινῶν κακουχίαν, βαρύνουσαι μὲν τοῖς ἔργοις, ὑποστελ- (15)  
+λόμεναι δὲ τῶν ἐπιτηδείων· εἶτα ὀβολιαῖα κέρδη περιποιού-  
+μεναι μεγάλοις ζημιοῦνται τιμήμασι, δυσνοίαις καὶ ἐπιβου-  
+λαῖς κακίσταις. σοὶ δὲ πρόχειρον ἔστω τὸ μέτρημα τῶν σιτί-  
+ων πρὸς τὸν ἀριθμὸν τῆς ἐριουργίας τοῖς ἐφ’ ἡμέραν πόνοις.  
+3. Kαὶ πρὸς μὲν τὴν δίαιταν οὕτως· πρὸς δὲ τὰς ἀταξίας τὸ (20)  
+σοὶ πρέπον, οὐ τὸ ἐκείναις συμφέρον ἐξυπηρετητέον. τιμᾶν    
+μὲν γὰρ δεῖ θεραπαίνας τὸ κατ’ ἀξίαν· τὸ μὲν γὰρ ὠμὸν οὐκ    
+οἴσει τῷ θυμῷ χάριν, τὸ δὲ μισοπόνηρον οὐχ ἧττον ὁ λογισμὸς  
+βραβεύει. ἐὰν δὲ ἡ ὑπερβολὴ τῆς κακίας ἀνίκητος ᾖ, ἐξορι-  
+στέον μετὰ πράσεως· τὸ γὰρ ἀλλότριον τῆς χρείας ἀλλοτρι-  
+ούσθω καὶ τῆς κυρίας. ἔστω δέσοι γνώμη το ῦδε πρόεδρος,  
+καθ’ ἣν γνώσῃ τὸ μὲν ἀληθὲς τῆς ἁμαρτίας πρὸς τὸ τῆς κα-  
+ταγνώσεως δίκαιον, τὸ δὲ τῶν ἡμαρτημένων μέγεθος πρὸς τὸ  
+κατ’ ἀξίαν τῆς κολάσεως.  
+4. Δεσποτικαὶ δὲ καὶ συγγνώμη καὶ χάρις ἐφ’ ἡμαρτημένοις ζη-  
+μίας ἀπαλλάττουσαι· [^14] οὕτω δὲ καὶ τὸ πρέπον ἐπὶ τοῦ οἰκείου (30)  
+(178) κατὰ τὸν τρόπον διαφυλάξει. ἔνιαι γάρ, ὦ φίλη, ὑπ’ ὠμότη-  
+τος καὶ μαστίζουσι τὰ τῶν θεραπαινῶν σώματα, θηριούμεναι  
+διὰ ζῆλον ἢ θυμόν, οἷον ὑπομνηματογραφούμεναι τὴν ὑπερβο-  
+λὴν τῆς πικρίας· αἱ μὲν γὰρ ἀνηλώθησαν χρόνῳ διαπονούμεναι,  
+αἱ δὲ φυγῇ τὴν σωτηρίαν ἐπορίσαντο, τινὲς δὲ ἐπαύσαντο τοῦ  
+ζῆν αὐτόχειρι θανάτῳ μεταστᾶσαι, καὶ λοιπὸν ἡ τῆς δεσποίνης  
+μόνωσις ὀδυρομένης τὴν οἰκείαν ἀβουλίαν ἔρημον μετάνοιαν    
+ἔχει.  
+5. Ἀλλ’, ὦ φίλη, ἴσθι μιμουμένη τὰ ὄργανα, ἃ <δια>φωνεῖ (40)  
+μᾶλλον ἀνειμένα, ἐκρήττεται δὲ μᾶλλον ἐπιτεινόμενα. καὶ  
+γὰρ ἐπὶ τῶν θεραπαινῶν ταὐτόν· ἡ μὲν ἄγαν ἄνεσις διαφωνί-  
+αν ἐμποιεῖ τῆς πειθαρχίας, ἡ δὲ ἐπίτασις τῆς ἀνάγκης διά-  
+λυσιν τῆς φύσεως. καὶ ἐπὶ τούτου δεῖ νοεῖν· μέτρον δ’  
+ἐπὶ πᾶσιν ἄριστον. [ἔρρωσο.]  
 
 
 
