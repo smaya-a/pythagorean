@@ -20,15 +20,15 @@ Altogether, the following texts provide a new opportunity to examine and interac
 
 ## **Note on Text and Translations, from Dorota Dutsch**
 
-"I have included only the texts of those treatises and letters attributed 
-to women that I discuss; for a full list of titles and texts, see Table 3. The Greek 
-text of the treatises below generally follows Thesleff’s edition (1965 = T), 
-that of the letters and notes, Städele’s (1980 = S). The exceptions are 
-identified in footnotes. The fragment of Theano to Timareta appears only 
-in Thesleff. Pages in Thesleff and Städele, respectively, are given at the 
-beginning of each text in bold and indicated in parentheses in the text. 
-The division of the fragments of treatises into sections is mine; that of the 
-letters follows Städele... All translations are mine."
+"I have included only the texts of those treatises and letters attributed  
+to women that I discuss; for a full list of titles and texts, see Table 3. The Greek   
+text of the treatises below generally follows Thesleff’s edition (1965 = T),   
+that of the letters and notes, Städele’s (1980 = S). The exceptions are   
+identified in footnotes. The fragment of Theano to Timareta appears only   
+in Thesleff. Pages in Thesleff and Städele, respectively, are given at the   
+beginning of each text in bold and indicated in parentheses in the text.   
+The division of the fragments of treatises into sections is mine; that of the   
+letters follows Städele... All translations are mine."  
 
 ## Theano to Nicostrate
 ### Greek
