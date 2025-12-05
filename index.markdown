@@ -5,9 +5,9 @@ layout: single_page
 {% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %}
 
 # Introduction
- Within the study of ancient philosophy, the work of women is largely missing, with texts attributed to female authors being rare and largely inaccessible. Through the work of our digital edition, we hope to bring forward a sample of previously understudied texts and provide a window into the work of female philosophers.
+ Within the study of ancient philosophy, the work of women is largely missing, with texts attributed to female authors being rare and largely inaccessible. Through the work of our digital edition, we hope to bring forward a sample of previously understudied texts and provide a window into perceptions of female philosophers.
 
-This project is a collection of written fragments attributed to the Pythagorist philosopher Theano, a follower of the Greek philosopher Pythagoras. More specifically, this edition contains the English and Greek translations of 4 letters addressed to 4 different women: Euobole, Nicostrate, Calisto, and Timareta. Within the letters, Theano advises them on motherhood, marriage, and domestic duties respectively. 
+This project is a collection of written fragments attributed to the Pythagorean philosopher Theano, a follower of the Greek philosopher Pythagoras. These fragments were not written by Theano herself; instead, they were written many centuries later, according to a Neopythagorean tradition of attempting to recreate earlier philosophical writing.  More specifically, this edition contains the English and Greek translations of 4 letters addressed to 4 different women: Euobole, Nicostrate, Calisto, and Timareta. Within the letters, Theano advises them on motherhood, marriage, and domestic duties respectively. 
 
 Altogether, the following texts provide a new opportunity to examine and interact with these rich sources and the intellectual world of Ancient Greece. 
 
@@ -108,6 +108,23 @@ ments, which are out of tune when excessively loose and snap when strung too tig
 
 
 [^15]: Literally: “Let what is foreign to the need (of the house) be estranged from its mistress.” This process of estrangement is the opposite of oikeiōsis. -DD
+
+## Theano to Timareta (Fr.) (Greek)
+
+
+T 200 No. 7; Poll. Onom. 10.21.5–9. . τὸν οἰκοδεσπότην καὶ τὴν
+οἰκοδέσποιναν . . . ταῦτα ἄμφω εὗρον ἐν Θεανοῦς τῆς Πυθαγόρου γυναικὸς
+ἐπιστολῇ πρὸς Τιμαρέταν γραφείσῃ. ὁ δὲ οἰκοδεσπότης ἔστι κα
+Ἀλέξιδος ἐν Ταραντίνοις. . .
+
+## Theano to Timareta (Fr.)(English)
+
+
+οἰκοδεσπότης “the master of the house” and οἰκοδέσποινα “the mistress of
+the house” I found both compound nouns in the letter that Theano the wife
+of Pythagoras has written for Timareta; οἰκοδεσπότης is also used in Alexis’
+The People of Tarentum.
+
 
 
 # About this Source
