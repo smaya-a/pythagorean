@@ -143,7 +143,7 @@ S VI 170, 172, 174; T 198–200; Hercher 604 No. 5
 περιφορὰ δέ ἐστι τὸ φέρειν ἄγνοιαν. εἶθ’ ἑταίρᾳ μὲν πρὸς   
 ἡδονὴν ὁμιλεῖ, γαμετῇ δὲ πρὸς τὸ συμφέρον· συμφέρον δὲ κα-        (10)   
 κοῖς κακὰ μὴ μίσγειν μηδὲ παρανοίᾳ παράνοιαν ἐπάγειν. 
-2. Ἔνια δὲ ἁμαρτήματα, φίλη, ἐλεγχόμενα μὲν ἐπὶ πλέον ἀν-
+2. Ἔνια δὲ ἁμαρτήματα, φίλη, ἐλεγχόμενα μὲν ἐπὶ πλέον ἀν-  
 ερεθίζεται, σιωπώμενα δὲ παύεται μᾶλλον, ὡς τὸ πῦρ ἡσυχίᾳ 
 φασὶ σβέννυσθαι. ἐὰν γὰρ βουλόμενόν σε λεληθέναι δοκεῖν 
 ἐλέγχουσα ἀφαιρήσῃς τὸ παρακάλυμμα τοῦ πάθους, καὶ φανε-          (15)   
@@ -269,23 +269,19 @@ hands away from them, so you too avoid interfering with his illness. Through
 endurance you will put an end to his illness sooner.  
 
 
-
-
-
-
-
 [^11]: Städele (1980: 312) ad loc. agrees with Hercher and Westermann that some words are missing after “ἡγῇ” contra Thesleff, who prints the text as is. Städele argues: “Doch gibt die Aussage: ‘Du aber glaubst, daß sich die Liebe deines Mannes nicht in sittlich einwandfreien Verhalten ausdrückt’ im Zusammenhang kein Sinn.” (But the utterance “but you think that
 your husband’s love does not express itself in a fashion suitable to noble behavior” makes no sense in this context.) Given the frequent references to the husband’s “illness” and “error” (e.g., lines 2–5, 9–12), the thought that the husband’s moral competence is lacking makes perfect sense, even if some words are missing.
 [^12]: Städele (1980: 316–17) finds the ending of this sentence difficult to follow, as it is not explained who the enemy might be. Given the motif of the competition between Nicostrate and the hetaera, the latter is a very good candidate. 
 [^13]: Literary: “through these,” referring to the actions prompted by passion.
 
 
+## Theano to Callisto
 ## Note on Theano to Callisto
 
 In this letter to Callisto, Theano instructs Callisto on how to manage household slaves. She recommends treating them fairly, being neither too strict nor too lenient. Interestingly, Theano advises the woman to seek advice from older married women. In Ancient Greece, women would commonly marry very young, sometimes as young as 14, and would immediately be thrust into responsibilities that they were ill-prepared to undertake. While a wife would often learn these duties from her husband, Theano posits that women must instead look to other women for this ethical education. 
 
 
-## **Theano to Callisto (Greek)**
+### Greek
 
 S VII 174, 176, 178; T 197–8; Hercher 605 No. 6
 
@@ -341,7 +337,7 @@ S VII 174, 176, 178; T 197–8; Hercher 605 No. 6
 [^14]: This sentence exceptionally follows Thesleff ’s text (198: 15–16). Städele eliminates χάρις and prints γνώμη rather than συγγνώμη: Δεσποτικὴ δὲ καὶ ἡ γνώμη [χάρις] ἐφ’ ἡμαρτημένοις ζημίας ἀπαλλάττουσα· (It is within the owner’s discretion to cancel punishment for transgressions.) These two concepts also appear in ThN and seem integral to the system of ethics presented in Theano’s letters. -DD
 
 
-## Theano to Callisto (English)
+### English
 
 
 
@@ -359,7 +355,9 @@ ments, which are out of tune when excessively loose and snap when strung too tig
 
 [^15]: Literally: “Let what is foreign to the need (of the house) be estranged from its mistress.” This process of estrangement is the opposite of oikeiōsis. -DD
 
-## Theano to Timareta (Fr.) (Greek)
+## Theano to Timareta (Fragment)
+
+## Greek
 
 
 T 200 No. 7; Poll. Onom. 10.21.5–9. . τὸν οἰκοδεσπότην καὶ τὴν
@@ -367,7 +365,7 @@ T 200 No. 7; Poll. Onom. 10.21.5–9. . τὸν οἰκοδεσπότην κα�
 ἐπιστολῇ πρὸς Τιμαρέταν γραφείσῃ. ὁ δὲ οἰκοδεσπότης ἔστι κα
 Ἀλέξιδος ἐν Ταραντίνοις. . .
 
-## Theano to Timareta (Fr.)(English)
+## English
 
 
 οἰκοδεσπότης “the master of the house” and οἰκοδέσποινα “the mistress of
