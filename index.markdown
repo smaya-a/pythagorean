@@ -5,38 +5,36 @@ layout: single_page
 {% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %}
 
 # Introduction
+ Within the study of ancient philosophy, the work of women is largely missing, with texts attributed to female authors being rare and largely inaccessible. Through the work of our digital edition, we hope to bring forward a sample of previously understudied texts and provide a window into the work of female philosophers.
 
-Word count: 250–450 words
+This project is a collection of written fragments attributed to the Pythagorist philosopher Theano, a follower of the Greek philosopher Pythagoras. More specifically, this edition contains the English and Greek translations of 4 letters addressed to 4 different women: Euobole, Nicostrate, Calisto, and Timareta. Within the letters, Theano advises them on motherhood, marriage, and domestic duties respectively. 
 
-This is the first written element of an edition: the first content readers encounter.
+Altogether, the following texts provide a new opportunity to examine and interact with these rich sources and the intellectual world of Ancient Greece. 
 
-The purpose of this introduction is to set the scene: to provide an initial description of the source as well as an overview your edition, highlighting its features and supplements. This is not a space for much detail about the source or our editorial work with it. Later sections will allow you to do that. Here, your job is to help readers understand that they are looking at a digital edition of a historical source and why that source is interesting.
-
-The premium is on precise, no-nonsense prose.
-
-At bottom, you should include:
 
 **How to Cite:**
 Here, provide a citation using this model:
 
-> Lastname, Firstname, FirstName LastName, and FirstName, Lastname. “Title of Web Page.” Name of Website (if different from web page). Publication or Revision Date. URL.
-
-Your teams have multiple authors.  In scholarship, if authorship is equal across all team members, then the custom is to list by last name them in alphabetical order.  If you wish to deviate from this order you can but that will communicate priority (i.e. that the one who goes first is the 'lead author', etc.).
-
-If you choose and wish to do so, you may also include a Creative Commons license here. We'll discuss those in class.
-
-Here and throughout your edition, you should use footnotes in Chicago Notes and Bibliography style.[^1]  Please note that if sources are listed in your bibliography (and all your main ones should be), you may use a shortened form in these notes (e.g. Smith, _Towards a Better Understanding_, 5, with the full citation to Smith going in the bibliography).
+> Anand, Smaya, Hannah Hedrick, and O'Neil, Frances. “Pythagorean Women.” December 5, 2025. https://smaya-a.github.io/pythagorean/.
 
 # The Source
 
-This section provides the main presentation of your source, as you have prepared it for readers (i.e., a facsimile, transcription, video, audio clip, etc.). This section is where we satisfy the first of the ADE’s three criteria for an electronic edition by providing a rigorous, accurate presentation of historical material.
+## **Note on Text and Translations, from Dorotta Dutsch**
 
-For the presentation of some sources, it may make sense to break up the presentation into multiple pages. For that, as needed, we can use a more book like template (binding multiple pages together) that I can provide. Nonetheless, this page should be the page from which all presentations of the source itself start.
+I have included only the texts of those treatises and letters attributed 
+to women that I discuss; for a full list of titles and texts, see Table 3. The Greek 
+text of the treatises below generally follows Thesleff’s edition (1965 = T), 
+that of the letters and notes, Städele’s (1980 = S). The exceptions are 
+identified in footnotes. The fragment of Theano to Timareta appears only 
+in Thesleff. Pages in Thesleff and Städele, respectively, are given at the 
+beginning of each text in bold and indicated in parentheses in the text. 
+The division of the fragments of treatises into sections is mine; that of the 
+letters follows Städele. The text of Theophylact Simocatta’s letter, Theano to 
+Eurydice, follows Zanetto’s edition (1985). All translations are mine.
 
-This may also be a space where editorial annotations are provided, such as notes on provenance, archival location, transcription, and more. If possible, a link to the source’s permanent digital location should be included here as well as a citation for that location. This should be done in consultation with the instructors, editorial board, and peer reviewers.
+## Note on Theano to Callisto
 
-Please note: some presentations may benefit from a multipage format (rather than one scrolling page, as here). I can make a multipage template available to you as needed.
-
+In this letter to Callisto, Theano instructs Callisto on how to manage household slaves. She recommends treating them fairly, being neither too strict nor too lenient. Interestingly, Theano advises the woman to seek advice from older married women. In Ancient Greece, women would commonly marry very young, sometimes as young as 14, and would immediately be thrust into responsibilities that they were ill-prepared to undertake. While a wife would often learn these duties from her husband, Theano posits that women must instead look to other women for this ethical education. 
 
 
 ## **Theano to Callisto (Greek)**
@@ -92,7 +90,7 @@ S VII 174, 176, 178; T 197–8; Hercher 605 No. 6
 
 
 
-[^14]: This sentence exceptionally follows Thesleff ’s text (198: 15–16). Städele eliminates χάρις and prints γνώμη rather than συγγνώμη: Δεσποτικὴ δὲ καὶ ἡ γνώμη [χάρις] ἐφ’ ἡμαρτημένοις ζημίας ἀπαλλάττουσα· (It is within the owner’s discretion to cancel punishment for transgressions.) These two concepts also appear in ThN and seem integral to the system of ethics presented in Theano’s letters.
+[^14]: This sentence exceptionally follows Thesleff ’s text (198: 15–16). Städele eliminates χάρις and prints γνώμη rather than συγγνώμη: Δεσποτικὴ δὲ καὶ ἡ γνώμη [χάρις] ἐφ’ ἡμαρτημένοις ζημίας ἀπαλλάττουσα· (It is within the owner’s discretion to cancel punishment for transgressions.) These two concepts also appear in ThN and seem integral to the system of ethics presented in Theano’s letters. -DD
 
 
 ## Theano to Callisto (English)
@@ -111,59 +109,55 @@ ments, which are out of tune when excessively loose and snap when strung too tig
 
 
 
-[^15]: Literally: “Let what is foreign to the need (of the house) be estranged from its mistress.” This process of estrangement is the opposite of oikeiōsis.
+[^15]: Literally: “Let what is foreign to the need (of the house) be estranged from its mistress.” This process of estrangement is the opposite of oikeiōsis. -DD
 
 
 # About this Source
 
-Word count: 1000 words (excluding footnotes)
+Women in Ancient Greece operated within a society built largely for and by men, with few opportunities for autonomy. A woman’s place was seen as within the home, her virtues lying in her abilities as a mother and wife. Despite these ideals, there are instances of women operating outside of these assigned norms, taking a more active role in society. 
 
-This section contains a short biography or history of your source. This section helps readers understand the context in which the source was made, and the kinds of historical topics and questions it illuminates.  It also helps to satisfy the second of the ADE’s "Minimum Standards for Electronic Editions," explanatory annotation.
+For example, some operated outside these constraints and engaged directly with intellectual life. A small number became known within philosophical circles, most notably among the Pythagoreans, which was one of the few communities in which women frequently participate as thinkers. Figures such as Theano, Damo, and Myia appear in the tradition as contributors to ethical and practical philosophy, even though much of their work survives only through later reconstruction. Their presence, however faint in the record, demonstrates that women were not completely absent from Greek philosophy, but were rather excluded from its preservation.
 
-"About this Source" should answer questions like:
+The contributions of women to Ancient Greek philosophy can also be interpreted using texts created by the Neopythagoreans. This group of philosophers, which started around the first century BCE, were fascinated by the ideas of Pythagoras, who had lived centuries before. However, Pythagoras had left no surviving writings. The lack of concrete evidence of his life allowed various myths and legends to surround him, and he became a figure of almost religious importance. In order to fill in the gaps left by Pythagoras’ proclivity for not writing anything down, the Neopythagoreans began to create forgeries, or pseudoepigrapha, of his writings. They also wrote treatises under the names of other scholars in the Pythagorean school of philosophy. These fictitious fragments were not created for profit’s sake; rather, they were written with a desire to systematize the knowledge of Pythagoreans, and because of this, many of them were high in quality.
 
-    How, when, and where was this artifact created?
-    For what purpose? To what effect?
-    Who used it, when, where, why?
-    What sorts of histories and historical debates has it been used in? How might we use it in our explorations of the past today?
-
-To answer these questions, you will be drawing on your collective research for the Research Assignment.
-
-The target length of this section is about 1000 words, exclusive of notes. It should contain footnotes that substantiate and support your research into the artifact and its history. Here, as throughout, the focus should be on clean, clear prose.
+The Neopythagoreans’ writings are unique in that they need to be read with skepticism, as they are imperfect reconstructions, but that they are still important sources. They offer insight into how these Neopythagorean philosophers understood their past and their philosophical traditions. For example, these Neopythagorean texts’ inclusion of women philosophers shows that their conception of their own past included women, even as women had been erased from the Ancient Greek philosophical tradition. 
 
 # About this Edition
 
-This section should state the principles and choices that guided your editorial work. It helps satisfy the last of the ADE’s criteria, by explaining to readers just how you produced the copy of the source presented here.
-
-This section should answer such questions as:
-
-    What original artifacts or copies of original artifacts were used in the making of your edition? 
-    Where may they be found today? What is their catalog or other identifying number (DOI, URL) there?
-    What procedures and technologies did you use in making your presentation of this artifact?
-    Why did you choose them? Are there any limitations of this method that readers should be aware of?
-    How did you produce transcriptions (if any)?
-    What kinds of alterations or emendations (if any) have you made? How are they noted?
-
-There is no target word count for this section, as the emphasis here is on maximum precision and clarity.  Be as brief and to the point as you can.
-
-# Supplements
-
-Should you wish to include any supplemental materials--such as specific forms of source commentary or illustrations--they may be provided here.  They are not required. If you do not have any supplements, please eliminate this field.
+The four letters in our edition are examples of these pseudoepigrapha. They are fictitious letters of advice to Ancient Greek women, written in 1-2 CE under the name of Theano. She was a Pythagorean philosopher who was known mainly through later tradition, which depicts her as a voice of ethical and domestic instruction. The English and Greek versions of these texts were provided and translated by Professor Dorota Dutsch, without alterations. Dutsch’s translations were created generally following the Greek versions found in William Thesleff’s “The Pythagorean Texts of the Hellenistic Period” (1965)  and Adolf Städele ’s “The Letters of Pythagoras and the Pythagoreans” (1980). Previously, the fragments published by Thesleff and Städele had been preserved in a fifth-century CE anthology compiled by Johannes of Stobi. He was a Macedonian father who wanted to collect important Greek philosophical writings for his son. 
 
 # Bibliography
 
-This section should provide a bibliography of all sources cited in your work as well as 
+1. Aristotle. Generation of Animals. Translated by A. L. Peck. Cambridge, MA: Harvard University Press, 1942.
+2. Aristotle. Politics. Translated by C. D. C. Reeve. Indianapolis: Hackett Publishing, 1998.
+3. Blundell, Sue. Women in Ancient Greece. British Museum Press, 1995.
+4. Brill, Sara, and Catherine McKeen, eds. The Routledge Handbook of Women and Ancient Greek Philosophy. 1st ed. New York: Routledge, 2024. https://doi.org/10.4324/9781003047858.
+5. Cartwright, Mark. “Women in Ancient Greece.” World History Encyclopedia, July 27, 2016. https://www.worldhistory.org/article/927/women-in-ancient-greece/.
+6. Chrystal, Paul. Women in Ancient Greece: Seclusion, Exclusion, or Illusion? Fonthill Media, 2017.
+7. Dutsch, Dorota M., 'Introduction: What is at Stake?', Pythagorean Women Philosophers: Between Belief and Suspicion, Oxford Studies in Classical Literature and Gender Theory (Oxford, 2020; online edn, Oxford Academic, 19 Nov. 2020), https://doi.org/10.1093/oso/9780198859031.003.0001, accessed 12 Nov. 2025.
+8. Ellis, Marialeen. “Dominated, Denied, and Debauched:  The Lives and Roles of Women in Classical Athens.” Vulcan Historical Review 17 (2013). https://digitalcommons.library.uab.edu/vulcan/vol17/iss2013/6?utm_source=digitalcommons.library.uab.edu%2Fvulcan%2Fvol17%2Fiss2013%2F6&utm_medium=PDF&utm_campaign=PDFCoverPages.
+9. Fricker, Miranda. Epistemic Injustice: Power and the Ethics of Knowing. Oxford: Oxford University Press, 2007.
+10. Hemingway, Colette. “Women in Classical Greece.” Heilbrunn Timeline of Art History, The Metropolitan Museum of Art, 2004. https://www.metmuseum.org/essays/women-in-classical-greece.
+11. Huffman, Carl A., ed. A History of Pythagoreanism. Cambridge: Cambridge University Press, 2014.
+12. Huffman, Carl, "Philolaus", The Stanford Encyclopedia of Philosophy (Winter 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), https://plato.stanford.edu/entries/philolaus/.
+13. Huffman, Carl, "Pythagoreanism", The Stanford Encyclopedia of Philosophy (Summer 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), https://plato.stanford.edu/archives/sum2024/entries/pythagoreanism/.
+14. Plato. Menexenus. In Plato: Complete Works, edited by John M. Cooper and D. S. Hutchinson, 1234–1260. Indianapolis: Hackett Publishing, 1997.
+15. Plato, Meno. Translated by Benjamin Jowett. Internet Archive. Accessed November 11, 2025. https://classics.mit.edu/Plato/meno.html.
+16. Plato. Republic. Translated by G. M. A. Grube and C. D. C. Reeve. Indianapolis: Hackett Publishing, 1992.
+17. Pomeroy, Sarah B. Goddesses, Whores, Wives, and Slaves: Women in Classical Antiquity. New York: Schocken Books, 1975.
+18. Warren, James, ed. The Cambridge Companion to Epicureanism. Cambridge: Cambridge University Press, 2009.
+19. Xenophon, Oeconomicus, quoted in Ellis, Marialeen,  “Dominated, Denied, and Debauched”:  The Lives and Roles of Women in Classical Athens.” Vulcan Historical Review 17 (2013). https://digitalcommons.library.uab.edu/vulcan/vol17/iss2013/6?utm_source=digitalcommons.library.uab.edu%2Fvulcan%2Fvol17%2Fiss2013%2F6&utm_medium=PDF&utm_campaign=PDFCoverPages.
+20. Zhmud, Leonid. The Papyrological Tradition on Pythagoras and the Pythagoreans. In Christian Vassallo, Presocratics and Papyrological Tradition: A Philosophical Reappraisal of the Sources, Proceedings of the International Workshop held at the University of Trier (22-24 September 2016). Berlin: ISSN. pp. 111-146. https://philarchive.org/rec/ZHMTP.
 
 # Credits and Acknowledgments
 
-Please thank your clients, as well as anyone else you would like to thank for their assistance in making this edition.
+Our deepest gratitude to Professor Dorotta Dutsch and Professor Annie Lamar for providing us with these texts Please thank your clients, as well as anyone else you would like to thank for their assistance in making this edition.
 
 # Optional: Author Biography
 
 If you wish to include short bios of yourselves as authors, please put them here.  This is optional.
 
 # About MinDoc 1.0
-_Please leave this credit (eliminating this italicized part)_
 
 > This site was built using MinDoc 1.0, a prototype digital documentary edition template developed for classroom use by members of [SourceLab](https://sourcelab.history.illinois.edu/) at the University of Illinois Urbana-Champaign.  The original project team included Liza Senatrova, John Randolph, Caroline Kness, and Richard Young.
 
