@@ -13,15 +13,14 @@ Altogether, the following texts provide a new opportunity to examine and interac
 
 
 **How to Cite:**
-Here, provide a citation using this model:
 
 > Anand, Smaya, Hannah Hedrick, and O'Neil, Frances. “Pythagorean Women.” December 5, 2025. https://smaya-a.github.io/pythagorean/.
 
 # The Source
 
-## **Note on Text and Translations, from Dorotta Dutsch**
+## **Note on Text and Translations, from Dorota Dutsch**
 
-I have included only the texts of those treatises and letters attributed 
+"I have included only the texts of those treatises and letters attributed 
 to women that I discuss; for a full list of titles and texts, see Table 3. The Greek 
 text of the treatises below generally follows Thesleff’s edition (1965 = T), 
 that of the letters and notes, Städele’s (1980 = S). The exceptions are 
@@ -29,8 +28,7 @@ identified in footnotes. The fragment of Theano to Timareta appears only
 in Thesleff. Pages in Thesleff and Städele, respectively, are given at the 
 beginning of each text in bold and indicated in parentheses in the text. 
 The division of the fragments of treatises into sections is mine; that of the 
-letters follows Städele. The text of Theophylact Simocatta’s letter, Theano to 
-Eurydice, follows Zanetto’s edition (1985). All translations are mine.
+letters follows Städele... All translations are mine."
 
 ## Note on Theano to Callisto
 
@@ -114,17 +112,31 @@ ments, which are out of tune when excessively loose and snap when strung too tig
 
 # About this Source
 
-Women in Ancient Greece operated within a society built largely for and by men, with few opportunities for autonomy. A woman’s place was seen as within the home, her virtues lying in her abilities as a mother and wife. Despite these ideals, there are instances of women operating outside of these assigned norms, taking a more active role in society. 
+The four letters included in this edition belong to a body of writings known as the Pythagorean pseudepigrapha, produced during the first and second centuries CE. Although these texts claim authorship by figures associated with the early Pythagorean community of the sixth and fifth centuries BCE, none of them is genuinely archaic. Instead, they were created several centuries after Pythagoras lived, in a cultural moment when interest in the Pythagorean past was being revived. These letters are part of a larger effort by later authors to construct a coherent tradition that stretched back to Pythagoras and his followers, despite the absence of any authenticated writings from the historical founder himself.
 
-For example, some operated outside these constraints and engaged directly with intellectual life. A small number became known within philosophical circles, most notably among the Pythagoreans, which was one of the few communities in which women frequently participate as thinkers. Figures such as Theano, Damo, and Myia appear in the tradition as contributors to ethical and practical philosophy, even though much of their work survives only through later reconstruction. Their presence, however faint in the record, demonstrates that women were not completely absent from Greek philosophy, but were rather excluded from its preservation.
+Pythagoras is unusual among major philosophical figures as he left no written texts. His teachings were transmitted orally, and later generations encountered only indirect references to what he believed or taught. This absence created an intellectual vacuum. By the Hellenistic and Roman periods, Pythagoras had acquired an almost legendary reputation, and authors began to fill in the gaps by producing letters, treatises, and sayings attributed to him and those around him. These writings were not intended as outright forgeries in a modern sense. Rather, they functioned as imaginative reconstructions, attempts to give shape to a philosophical lineage that had become central to later thinkers.
 
-The contributions of women to Ancient Greek philosophy can also be interpreted using texts created by the Neopythagoreans. This group of philosophers, which started around the first century BCE, were fascinated by the ideas of Pythagoras, who had lived centuries before. However, Pythagoras had left no surviving writings. The lack of concrete evidence of his life allowed various myths and legends to surround him, and he became a figure of almost religious importance. In order to fill in the gaps left by Pythagoras’ proclivity for not writing anything down, the Neopythagoreans began to create forgeries, or pseudoepigrapha, of his writings. They also wrote treatises under the names of other scholars in the Pythagorean school of philosophy. These fictitious fragments were not created for profit’s sake; rather, they were written with a desire to systematize the knowledge of Pythagoreans, and because of this, many of them were high in quality.
+The letters attributed to Theano fit exactly within this context. Theano appears in later biographical traditions as either the wife or student of Pythagoras, although there is no contemporary evidence for her existence. By the Roman period, she had become an idealized figure associated with the domestic and ethical dimension of Pythagoreanism. Attaching new writings to her name provided a way for authors to explore topics related to women’s conduct, household authority, and moral education while grounding those ideas in a supposedly ancient foundation. These texts therefore reveal as much about the period in which they were composed as about the past they claimed to represent.
 
-The Neopythagoreans’ writings are unique in that they need to be read with skepticism, as they are imperfect reconstructions, but that they are still important sources. They offer insight into how these Neopythagorean philosophers understood their past and their philosophical traditions. For example, these Neopythagorean texts’ inclusion of women philosophers shows that their conception of their own past included women, even as women had been erased from the Ancient Greek philosophical tradition. 
+The presence of women in the Pythagorean pseudepigrapha is striking, given the broader context of ancient Greek intellectual life. Classical Greek philosophy was overwhelmingly male, and women were generally excluded from institutions of learning and public discourse. Their lives were shaped by expectations of modesty, obedience, and domestic management. Yet the Neopythagorean corpus includes multiple female figures such as Theano, Damo, Myia, and Melissa, who appear as confident moral authorities. Their writings address household management, childrearing, and ethical behavior, all framed as philosophical duties. The content of the letters also reveals the way Neopythagorean writers conceived of philosophical authority. Rather than focusing on abstract metaphysics or mathematics, the letters explore how to live a proper life. They treat quotidian actions (speech, dress, childrearing, etc.) as morally significant, which reflects a broader Pythagorean interest in shaping the soul through disciplined habit. While these texts do not prove that women actively participated in philosophical circles, they do show that later authors imagined a Pythagorean tradition in which female instruction was plausible, even desirable.
+
+This imagined past worked to legitimize contemporary social roles. Roman imperial culture valued household order as the foundation of civic stability, and the Pythagorean letters reflect this emphasis. Theano’s advice frequently links personal virtue to household management, implying that ethical behavior begins in the private sphere. By situating such claims in the voice of an ancient woman philosopher, the texts embed Roman ideals about domestic authority in a tradition represented as timeless. The strategy is effective: readers are encouraged to treat these moral directives as inherited wisdom rather than recent invention.
+
+The pseudonymous format was crucial to this projection. By attributing their writings to figures like Theano, later authors created the illusion of continuity with the ancient past. Modern scholarship has shown that many of these letters were written by educated men during the Roman imperial period, not by women. However, their authors’ decision to write in the voices of women gives us insight into how gender was conceptualized within later philosophical contexts. Women in these texts are depicted as moral authorities within the household, and their authority derives from virtues such as moderation, self-control, and protectiveness over the family unit. The Pythagorean letters thus perform a cultural function: they offer models of behavior that align domestic hierarchy with philosophical legitimacy.
+
+There is also a wider cultural reason for the choice of the letter form. Letters were a common vehicle for philosophical instruction during the Hellenistic and Roman periods. Philosophers such as Epicurus and Seneca used letters to convey ethical teaching in a concise and personal way. The letter format allowed Pythagorean writers to present advice as though it were directed to real addressees, reinforcing the impression of authenticity. The practical tone of these letters contrasts with the more speculative style of other ancient philosophical genres, making them appear accessible and direct.
+
+It is important to recognize that the inclusion of women in these texts does not necessarily reflect real opportunities for female philosophical agency. The letters depict women acting within boundaries that male authors considered appropriate. They are authoritative only insofar as they reinforce domestic order. The texts do not present women debating metaphysics or participating in politics. Rather, they situate women as stewards of household virtue, responsible for maintaining social stability. This limited scope suggests that although women could be imagined within the philosophical tradition, their imagined roles remained constrained by the assumptions of their time.
+
+Nonetheless, the letters should not be dismissed as strictly reflecting tradition. They complicate our understanding of ancient intellectual history by showing that women were not entirely absent from philosophical narratives. Even if their voices were constructed, the fact that writers felt compelled to include them indicates a shift in how philosophical authority was conceived. The Pythagorean tradition, real or invented, provided a space in which women could appear as philosophical agents, however narrowly defined. The resulting texts offer a rare window onto ancient beliefs about gender, ethics, and authorship, and reveal how cultural memory can reshape the past to serve present needs.
 
 # About this Edition
 
-The four letters in our edition are examples of these pseudoepigrapha. They are fictitious letters of advice to Ancient Greek women, written in 1-2 CE under the name of Theano. She was a Pythagorean philosopher who was known mainly through later tradition, which depicts her as a voice of ethical and domestic instruction. The English and Greek versions of these texts were provided and translated by Professor Dorota Dutsch, without alterations. Dutsch’s translations were created generally following the Greek versions found in William Thesleff’s “The Pythagorean Texts of the Hellenistic Period” (1965)  and Adolf Städele ’s “The Letters of Pythagoras and the Pythagoreans” (1980). Previously, the fragments published by Thesleff and Städele had been preserved in a fifth-century CE anthology compiled by Johannes of Stobi. He was a Macedonian father who wanted to collect important Greek philosophical writings for his son. 
+The four letters in this edition are Neopythagorean pseudepigrapha: later compositions presented as advice from Theano, a figure whom later sources describe as a Pythagorean philosopher associated with ethical and domestic instruction. Although the letters claim an earlier origin, they were written in the first or second century CE and reflect how later authors imagined Theano’s voice rather than preserving the words of a historical individual.
+
+The Greek and English texts used here were provided by Professor Dorota Dutsch, whose translations we reproduce without alteration. Dutsch based her work on the standard modern editions of the Pythagorean letters, using William Thesleff’s The Pythagorean Texts of the Hellenistic Period (1965) and Adolf Städele’s The Letters of Pythagoras and the Pythagoreans (1980). Both scholars relied on fragments preserved in a fifth-century CE anthology compiled by Johannes of Stobi, who assembled excerpts of philosophical writings for his son. 
+
+In her own approach, Dutsch focuses on presenting the material in a format that reflects how these texts operated within the Pythagorean tradition rather than attempting to reconstruct an earlier version. She selects only the works attributed to women that she examines in her research and generally follows Thesleff for treatises and Städele for letters, retaining Städele’s section divisions and adding her own only when needed for clarity. Her aim is to preserve the character of the surviving texts while making their structure and purpose accessible to modern readers. All translations are her own. We have kept her footnotes, marking them with a "-DD" to distinguish them from ours. 
 
 # Bibliography
 
@@ -151,11 +163,7 @@ The four letters in our edition are examples of these pseudoepigrapha. They are 
 
 # Credits and Acknowledgments
 
-Our deepest gratitude to Professor Dorotta Dutsch and Professor Annie Lamar for providing us with these texts Please thank your clients, as well as anyone else you would like to thank for their assistance in making this edition.
-
-# Optional: Author Biography
-
-If you wish to include short bios of yourselves as authors, please put them here.  This is optional.
+Our deepest gratitude to Professor Dorota Dutsch and Professor Annie Lamar for providing us with these texts and for their guidance. 
 
 # About MinDoc 1.0
 
