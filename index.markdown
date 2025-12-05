@@ -7,7 +7,7 @@ layout: single_page
 # Introduction
  Within the study of ancient philosophy, the work of women is largely missing, with texts attributed to female authors being rare and largely inaccessible. Through the work of our digital edition, we hope to bring forward a sample of previously understudied texts and provide a window into perceptions of female philosophers.
 
-This project is a collection of written fragments attributed to the Pythagorean philosopher Theano, a follower of the Greek philosopher Pythagoras. These fragments were not written by Theano herself; instead, they were written many centuries later, according to a Neopythagorean tradition of attempting to recreate earlier philosophical writing.  More specifically, this edition contains the English and Greek translations of 4 letters addressed to 4 different women: Euobole, Nicostrate, Calisto, and Timareta. Within the letters, Theano advises them on motherhood, marriage, and domestic duties respectively. 
+This project is a collection of written fragments attributed to the Pythagorean philosopher Theano, a follower of the Greek philosopher Pythagoras. These fragments were not written by Theano herself; instead, they were written many centuries later, according to a Neopythagorean tradition of attempting to recreate earlier philosophical writing.  More specifically, this edition contains the English and Greek translations of 4 letters addressed to 4 different women: Eubole, Nicostrate, Calisto, and Timareta. Within the letters, Theano advises them on motherhood, marriage, and domestic duties respectively. 
 
 Altogether, the following texts provide a new opportunity to examine and interact with these rich sources and the intellectual world of Ancient Greece. 
 
@@ -269,8 +269,7 @@ hands away from them, so you too avoid interfering with his illness. Through
 endurance you will put an end to his illness sooner.  
 
 
-[^11]: Städele (1980: 312) ad loc. agrees with Hercher and Westermann that some words are missing after “ἡγῇ” contra Thesleff, who prints the text as is. Städele argues: “Doch gibt die Aussage: ‘Du aber glaubst, daß sich die Liebe deines Mannes nicht in sittlich einwandfreien Verhalten ausdrückt’ im Zusammenhang kein Sinn.” (But the utterance “but you think that
-your husband’s love does not express itself in a fashion suitable to noble behavior” makes no sense in this context.) Given the frequent references to the husband’s “illness” and “error” (e.g., lines 2–5, 9–12), the thought that the husband’s moral competence is lacking makes perfect sense, even if some words are missing.
+[^11]: Städele (1980: 312) ad loc. agrees with Hercher and Westermann that some words are missing after “ἡγῇ” contra Thesleff, who prints the text as is. Städele argues: “Doch gibt die Aussage: ‘Du aber glaubst, daß sich die Liebe deines Mannes nicht in sittlich einwandfreien Verhalten ausdrückt’ im Zusammenhang kein Sinn.” (But the utterance “but you think that your husband’s love does not express itself in a fashion suitable to noble behavior” makes no sense in this context.) Given the frequent references to the husband’s “illness” and “error” (e.g., lines 2–5, 9–12), the thought that the husband’s moral competence is lacking makes perfect sense, even if some words are missing.
 [^12]: Städele (1980: 316–17) finds the ending of this sentence difficult to follow, as it is not explained who the enemy might be. Given the motif of the competition between Nicostrate and the hetaera, the latter is a very good candidate. 
 [^13]: Literary: “through these,” referring to the actions prompted by passion.
 
