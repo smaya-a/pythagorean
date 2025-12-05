@@ -30,6 +30,56 @@ beginning of each text in bold and indicated in parentheses in the text.
 The division of the fragments of treatises into sections is mine; that of the   
 letters follows Städele... All translations are mine."  
 
+## Theano to Euboule
+### English
+
+
+1. I hear that you are spoiling your children. The task of a good mother,   
+however, is not to endeavor to please her children, but instead to train them   
+in self-restraint. Beware that you don’t act like an indulgent mother rather  
+than a loving one, because pleasure ingrained in children leads to a lack of   
+discipline. For what indeed is more pleasing to the youngsters than an   
+ingrained pleasure? You must, my dear, nurture your children without   
+corrupting their nature. Nurture can corrupt children’s nature when their   
+minds seek, and their bodies experience pleasures, and thus they become   
+intellectually lazy and physically weak. [^10]  
+2. We should train the children we raise to face fear – even if this means  
+they may have to grieve and suffer – so that they do not become slaves to  
+such emotions, eager for pleasures and intolerant of hardship, but instead  
+develop the utmost reverence for what is right, abstain from pleasures and  
+withstand hardships. You should not make them gluttonous for food,  
+spoiled with diverse pleasures, and wild through their unrestrained childish  
+games, or allow them to say and try everything they want, while you are  
+afraid when they cry, are proud when they laugh, laugh when they hit the  
+nurse or insult you, provide shade in the summer and heat in the winter, and  
+many other luxuries. Poor children know none of these (luxuries) and are  
+brought up more easily, grow up not the worse for it, and turn out much  
+stronger.  
+3. You, however, nurse your children like the progeny of Sardanapalus,  
+weakening the nature of your sons through luxurious living. What can  
+become of a child who cries if he does not eat soon enough; who, when he  
+eats, seeks pleasure in fancy food; who is exhausted when it is hot, shakes  
+and collapses when it is cold; who argues when someone criticizes him,  
+suffers when someone doesn’t satisfy his whims, is annoyed whenever he is  
+not chewing, wastes time on idle pleasures, and wanders around endlessly  
+mumbling to himself?  
+4. Therefore, my dear, knowing that spoiled children when they grow up  
+to be men, become slaves (scil. to passion), be careful to take away such  
+pleasures, by making their meals austere rather than luxurious, allowing  
+them to endure hunger and thirst, and even cold, heat, and shame before  
+their peers and superiors. For only in this way can they become noble in  
+spirit whether they are praised or reprimanded. For hardships, my friend,  
+are a sort of dye mordant to which children are exposed when their virtue is  
+perfected, and those who have been dipped long enough wear the hue of  
+virtue as something of their own. So, make sure, my dear, that because of  
+(your) indulgence, your children do not acquire the vices of insolence and  
+utter worthlessness, in the same way that poorly tended vines bear inferior  
+fruit.  
+
+[^10]: Literally: “they become pleasure-seeking in their souls, pleasure-loving in their 
+bodies, and their souls become lazy and their bodies too weak.”
+
+
 ## Theano to Nicostrate
 ### Greek
 
