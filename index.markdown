@@ -16,7 +16,7 @@ Altogether, the following letters provide a new opportunity to examine and inter
 
 **How to Cite:**
 
-> Anand, Smaya, Hannah Hedrick, and O'Neil, Frances. “Pythagorean Women.” December 5, 2025. https://smaya-a.github.io/pythagorean/.
+> Anand, Smaya, Hannah Hedrick, and O'Neil, Frances. “The Letters of Theano: Neopythagorean Pseudoepigrapha.” December 5, 2025. https://smaya-a.github.io/pythagorean/.
 
 # The Source
 
@@ -33,6 +33,9 @@ The division of the fragments of treatises into sections is mine; that of the
 letters follows Städele... All translations are mine."  
 
 ## Theano to Euboule
+### Note on Theano to Eubole
+In this letter, Theano chastises Eubole for spoiling her children. She compares Eubole's treatment of her children to the luxurious lives of the "progeny of Sardanapalus," who was supposedly a king who lived and died in excess and decadence. Disclipine and austerity, instead, are recommended. The burden of raising children to become virtuous and capable members of society is placed entirely on Eubole's shoulders, showing how women in Ancient Greece were defined by their household management skills. 
+
 ### Greek
 S V 166, 168; T 195–6; Hercher 603 No. 4
 
@@ -129,6 +132,9 @@ fruit.
 
 
 ## Theano to Nicostrate
+### Note on Theano to Nicostrate
+In this letter, Theano advises Nicostrate on how to handle her husband's infidelity. He has been having an affair with a _hetaera_, a type of high-class courtesan. Theano urges Nicostrate not to act in anger against her husband's "madness," and instead take the high road. She uses the story of Medea, who brutally killed her children and her husband's new wife after he abandoned her, as a caution. This advice reflects the lack of socially acceptable options that Greek women had when it came to marriage. 
+
 ### Greek
 
 S VI 170, 172, 174; T 198–200; Hercher 604 No. 5   
@@ -357,8 +363,10 @@ ments, which are out of tune when excessively loose and snap when strung too tig
 [^15]: Literally: “Let what is foreign to the need (of the house) be estranged from its mistress.” This process of estrangement is the opposite of oikeiōsis. -DD
 
 ## Theano to Timareta (Fragment)
+### Note on Theano to Timareta
+This letter, in contrast to the others, is just a fragment of text. Further complicating study of Ancient Greek texts, many did not survive, or only partially survived, and this is an example of the latter. Alexis, a Greek comic poet, and one of his works are mentioned. The fragment also identifies Theano as the wife of Pythagoras, which is interesting as her identity and relationship to Pythagoras is unclear and often disputed. 
 
-## Greek
+### Greek
 
 
 T 200 No. 7; Poll. Onom. 10.21.5–9. . τὸν οἰκοδεσπότην καὶ τὴν
@@ -366,7 +374,7 @@ T 200 No. 7; Poll. Onom. 10.21.5–9. . τὸν οἰκοδεσπότην κα�
 ἐπιστολῇ πρὸς Τιμαρέταν γραφείσῃ. ὁ δὲ οἰκοδεσπότης ἔστι κα
 Ἀλέξιδος ἐν Ταραντίνοις. . .
 
-## English
+### English
 
 
 οἰκοδεσπότης “the master of the house” and οἰκοδέσποινα “the mistress of
