@@ -5,13 +5,13 @@ layout: single_page
 {% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %}
 
 # Introduction
-Within the study of ancient philosophy, the work of women is largely missing, with texts attributed to female authors being rare and largely inaccessible. Through the work of our digital edition, we hope to bring forward a sample of previously understudied texts and provide a window into perceptions of female philosophers.
+In the study of Ancient Greek philosophy, the work of women is largely missing. A suppression of female voices and a lack of written sources mean that texts attributed to female authors are rare and largely inaccessible. Thanks to recent scholarship, however, new light is being shed on the role of gender in philosophy. In particular, Dr. Dorota Dutsch's work examining women's presence in Pythagorean thought is the basis for this digital edition. With it, we hope to bring forward a sample of previously understudied texts and provide a window into Ancient Greek perceptions of female philosophers.
 
-This project is a collection of written fragments attributed to the Pythagorist philosopher Theano, a follower of the Greek philosopher Pythagoras. These fragments were not written by Theano herself; instead they were written many centuries later, according to a Neopythagorean tradition of attempting to recreate earlier philosophical writing. More specifically, this edition contains the English and Greek translations of 4 letters addressed to 4 different women: Euobole, Nicostrate, Calisto, and Timareta. Within the letters, Theano advises them on motherhood, marriage, and domestic duties respectively. 
+This project is a collection of written fragments attributed to the Pythagorist philosopher Theano, possibly a follower of the Greek philosopher Pythagoras. These fragments were not written by Theano herself; instead they were written many centuries later, according to a Neopythagorean tradition of attempting to recreate earlier philosophical writing. More specifically, this edition contains the English and Greek translations of 4 letters addressed to 4 different women: Eubole, Nicostrate, Calisto, and Timareta. Within the letters, Theano advises them on motherhood, marriage, and domestic duties respectively. 
 
-The Greek and English texts used within this edition were translated by Dorota Dutsch and transcribed by our group. Dutsch’s work is based on the standard modern editions of the letters using William Thesleff’s “The Pythagorean Texts of the Hellenistic Period” (1965) and Adolf Städele’s “The Letters of Pythagoras and the Pythagoreans” (1980). 
+The Greek and English texts used within this edition were translated by Dorota Dutsch and transcribed by our group. Dutsch’s work is based on the standard modern editions of the letters using William Thesleff’s _The Pythagorean Texts of the Hellenistic Period_ (1965) and Adolf Städele’s _The Letters of Pythagoras and the Pythagoreans_ (1980). 
 
-Altogether, the following letters provide a new opportunity to examine and interact with these rich sources and the intellectual world of Ancient Greece.
+Altogether, the following letters are rich sources which provide a new opportunity to interact with the intellectual world of Ancient Greece. 
 
 
 **How to Cite:**
