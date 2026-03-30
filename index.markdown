@@ -20,10 +20,9 @@ Altogether, the following letters are rich sources which provide a new opportuni
 
 # The Source
 
-| ## Greek | ## English |
+|Greek | English |
 |-------|-----------|
-| # Θεανὼ Εὐβούλῃ [χαίρειν].1. Ἀκούω σε τὰ παιδία τρυφερῶς ἄγειν· ἔστι δὲ ἀγαθῆς μη- 
-τρὸς οὐχ ἡ πρὸς ἡδονὴν ἐπιμέλεια τῶν παίδων, ἀλλ᾽ ἡ πρὸς τὸ σώφρον ἀγωγή. βλέπε οὖν μὴ οὐ φιλοῦσης, ἀλλὰ κολακευού- σης ἔργον ποιῇς· συμπεριφερομένη γὰρ ἡδονῇ παισὶν ἀκολάστοις οιεῖ. τῇ γὰρ ἡδονῇ νέους συνήθους ἡδονῆς χρὴ οὖν, ὦ φί- λη, τὴν τροφὴν τῶν παίδων μὴ διαστροφήν ἔχειν· ἡ δὲ τροφὴ διαστροφή της φύσεως ἐστίν ὅταν φιλόδησοι μὲν ταῖς ψυχαῖς, ἡδυπαθεῖς δὲ τοῖς σώμασι γίνονται, καὶ ταῖς μὲν φρονίμοις τοῖς δὲ μαλακώτεροι. (10) | # 1. I hear that you are spoiling your children. The task of a good mother, however, is not to endeavor to please her children, but instead to train them in self-restraint. Beware that you don’t act like an indulgent mother rather than a loving one, because pleasure ingrained in children leads to a lack of discipline. For what indeed is more pleasing to the youngsters than an ingrained pleasure? You must, my dear, nurture your children without corrupting their nature. Nurture can corrupt children’s nature when their minds seek, and their bodies experience pleasures, and thus they become intellectually lazy and physically weak. 1 |
+| # Θεανὼ Εὐβούλῃ [χαίρειν]. <br> 1\. Ἀκούω σε τὰ παιδία τρυφερῶς ἄγειν· ἔστι δὲ ἀγαθῆς μη- <br> τρὸς οὐχ ἡ πρὸς ἡδονὴν ἐπιμέλεια τῶν παίδων, ἀλλ᾽ ἡ πρὸς τὸ σώφρον ἀγωγή. βλέπε οὖν μὴ οὐ φιλοῦσης, ἀλλὰ κολακευού- σης ἔργον ποιῇς· συμπεριφερομένη γὰρ ἡδονῇ παισὶν ἀκολάστοις οιεῖ. τῇ γὰρ ἡδονῇ νέους συνήθους ἡδονῆς χρὴ οὖν, ὦ φί- λη, τὴν τροφὴν τῶν παίδων μὴ διαστροφήν ἔχειν· ἡ δὲ τροφὴ διαστροφή της φύσεως ἐστίν ὅταν φιλόδησοι μὲν ταῖς ψυχαῖς, ἡδυπαθεῖς δὲ τοῖς σώμασι γίνονται, καὶ ταῖς μὲν φρονίμοις τοῖς δὲ μαλακώτεροι. (10) | # 1\. I hear that you are spoiling your children. The task of a good mother, however, is not to endeavor to please her children, but instead to train them in self-restraint. Beware that you don’t act like an indulgent mother rather than a loving one, because pleasure ingrained in children leads to a lack of discipline. For what indeed is more pleasing to the youngsters than an ingrained pleasure? You must, my dear, nurture your children without corrupting their nature. Nurture can corrupt children’s nature when their minds seek, and their bodies experience pleasures, and thus they become intellectually lazy and physically weak. 1 |
 
 ## **Note on Text and Translations, from Dorota Dutsch**
 
