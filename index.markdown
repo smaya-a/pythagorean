@@ -67,99 +67,21 @@ In this letter, Theano advises Nicostrate on how to handle her husband's infidel
 In this letter to Callisto, Theano instructs Callisto on how to manage household slaves. She recommends treating them fairly, being neither too strict nor too lenient. Interestingly, Theano advises the woman to seek advice from older married women. In Ancient Greece, women would commonly marry very young, sometimes as young as 14, and would immediately be thrust into responsibilities that they were ill-prepared to undertake. While a wife would often learn these duties from her husband, Theano posits that women must instead look to other women for this ethical education. 
 
 
-### Greek
-
-S VII 174, 176, 178; T 197–8; Hercher 605 No. 6  
-
-Θεανὼ Καλλιστοῖ.  
-1\. Ταῖς νεωτέραις ὑμῖν ἡ μὲν ἐξουσία παρὰ τοῦ νόμου δέδο-  
-ται τῶν οἰκετῶν ἄρχειν ἅμα τῷ γήμασθαι, ἡ δὲ διδασκαλία πα-  
-ρὰ τῶν πρεσβυτέρων ἀπαντᾶν ὀφείλει περὶ τῆς οἰκονομίας ἀεὶ  
-παραινούντων. καλῶς γὰρ ἔχει πρότερον μανθάνειν ἃ μὴ γιγνώ-  
-(176) σκετε, καὶ τὴν συμβουλὴν οἰκειοτάτην τῶν πρεσβυτέρων ἡγεῖ-  
-σθαι· ἐν τούτοις γὰρ παρθενοτροφεῖσθαι δεῖ νέαν ψυχήν. ἀρ-  
-χὴ δέ ἐστιν οἴκου πρώτη γυναιξὶν ἀρχὴ θεραπαινῶν. ἔστι δέ,  
-ὦ φίλη, μέγιστον ἐπὶ δουλείᾳ εὔνοια· αὕτη γὰρ οὐ συναγορά-  
-ζεται τοῖς σώμασιν ἡ κτῆσις, ἀλλ’ ἐξ ὑστέρου γεννῶσιν αὐ- (10)  
-τὴν οἱ συνετοὶ δεσπόται.    
-2\. Δικαία δὲ χρῆσις αἰτία τούτου, ἵνα μήτε διὰ τὸν κόπον  
-κάμνωσι μήτε ἀδυνατῶσι διὰ τὴν ἔνδειαν· εἰσὶ γὰρ ἄνθρωποι  
-τῇ φύσει. ἔνιαι δὲ κέρδος τὸ ἀκερδέστατον ἡγοῦνται, τὴν τῶν  
-θεραπαινῶν κακουχίαν, βαρύνουσαι μὲν τοῖς ἔργοις, ὑποστελ- (15)  
-λόμεναι δὲ τῶν ἐπιτηδείων· εἶτα ὀβολιαῖα κέρδη περιποιού-  
-μεναι μεγάλοις ζημιοῦνται τιμήμασι, δυσνοίαις καὶ ἐπιβου-  
-λαῖς κακίσταις. σοὶ δὲ πρόχειρον ἔστω τὸ μέτρημα τῶν σιτί-  
-ων πρὸς τὸν ἀριθμὸν τῆς ἐριουργίας τοῖς ἐφ’ ἡμέραν πόνοις.    
-3\. Kαὶ πρὸς μὲν τὴν δίαιταν οὕτως· πρὸς δὲ τὰς ἀταξίας τὸ (20)    
-σοὶ πρέπον, οὐ τὸ ἐκείναις συμφέρον ἐξυπηρετητέον. τιμᾶν    
-μὲν γὰρ δεῖ θεραπαίνας τὸ κατ’ ἀξίαν· τὸ μὲν γὰρ ὠμὸν οὐκ    
-οἴσει τῷ θυμῷ χάριν, τὸ δὲ μισοπόνηρον οὐχ ἧττον ὁ λογισμὸς  
-βραβεύει. ἐὰν δὲ ἡ ὑπερβολὴ τῆς κακίας ἀνίκητος ᾖ, ἐξορι-  
-στέον μετὰ πράσεως· τὸ γὰρ ἀλλότριον τῆς χρείας ἀλλοτρι-  
-ούσθω καὶ τῆς κυρίας. ἔστω δέσοι γνώμη το ῦδε πρόεδρος,  
-καθ’ ἣν γνώσῃ τὸ μὲν ἀληθὲς τῆς ἁμαρτίας πρὸς τὸ τῆς κα-  
-ταγνώσεως δίκαιον, τὸ δὲ τῶν ἡμαρτημένων μέγεθος πρὸς τὸ  
-κατ’ ἀξίαν τῆς κολάσεως.    
-4\. Δεσποτικαὶ δὲ καὶ συγγνώμη καὶ χάρις ἐφ’ ἡμαρτημένοις ζη-  
-μίας ἀπαλλάττουσαι·[^14] οὕτω δὲ καὶ τὸ πρέπον ἐπὶ τοῦ οἰκείου (30)  
-(178) κατὰ τὸν τρόπον διαφυλάξει. ἔνιαι γάρ, ὦ φίλη, ὑπ’ ὠμότη-  
-τος καὶ μαστίζουσι τὰ τῶν θεραπαινῶν σώματα, θηριούμεναι  
-διὰ ζῆλον ἢ θυμόν, οἷον ὑπομνηματογραφούμεναι τὴν ὑπερβο-  
-λὴν τῆς πικρίας· αἱ μὲν γὰρ ἀνηλώθησαν χρόνῳ διαπονούμεναι,  
-αἱ δὲ φυγῇ τὴν σωτηρίαν ἐπορίσαντο, τινὲς δὲ ἐπαύσαντο τοῦ  
-ζῆν αὐτόχειρι θανάτῳ μεταστᾶσαι, καὶ λοιπὸν ἡ τῆς δεσποίνης  
-μόνωσις ὀδυρομένης τὴν οἰκείαν ἀβουλίαν ἔρημον μετάνοιαν    
-ἔχει.    
-5\. Ἀλλ’, ὦ φίλη, ἴσθι μιμουμένη τὰ ὄργανα, ἃ \<δια\>φωνεῖ (40)      
-μᾶλλον ἀνειμένα, ἐκρήττεται δὲ μᾶλλον ἐπιτεινόμενα. καὶ    
-γὰρ ἐπὶ τῶν θεραπαινῶν ταὐτόν· ἡ μὲν ἄγαν ἄνεσις διαφωνί-    
-αν ἐμποιεῖ τῆς πειθαρχίας, ἡ δὲ ἐπίτασις τῆς ἀνάγκης διά-    
-λυσιν τῆς φύσεως. καὶ ἐπὶ τούτου δεῖ νοεῖν· μέτρον δ’    
-ἐπὶ πᾶσιν ἄριστον. [ἔρρωσο.]    
-
-
-
+|Greek | English |
+|-------|-----------|
+|S VII 174, 176, 178; T 197–8; Hercher 605 No. 6 <br> Θεανὼ Καλλιστοῖ. <br> 1\. Ταῖς νεωτέραις ὑμῖν ἡ μὲν ἐξουσία παρὰ τοῦ νόμου δέδοται τῶν οἰκετῶν ἄρχειν ἅμα τῷ γήμασθαι, ἡ δὲ διδασκαλία παρὰ τῶν πρεσβυτέρων ἀπαντᾶν ὀφείλει περὶ τῆς οἰκονομίας ἀεὶ παραινούντων. καλῶς γὰρ ἔχει πρότερον μανθάνειν ἃ μὴ γιγνώ σκετε, καὶ τὴν συμβουλὴν οἰκειοτάτην τῶν πρεσβυτέρων ἡγεῖσθαι· ἐν τούτοις γὰρ παρθενοτροφεῖσθαι δεῖ νέαν ψυχήν. ἀρχὴ δέ ἐστιν οἴκου πρώτη γυναιξὶν ἀρχὴ θεραπαινῶν. ἔστι δέ, ὦ φίλη, μέγιστον ἐπὶ δουλείᾳ εὔνοια· αὕτη γὰρ οὐ συναγοράζεται τοῖς σώμασιν ἡ κτῆσις, ἀλλ’ ἐξ ὑστέρου γεννῶσιν αὐ τὴν οἱ συνετοὶ δεσπόται. <br> 2\. Δικαία δὲ χρῆσις αἰτία τούτου, ἵνα μήτε διὰ τὸν κόπον κάμνωσι  μήτε ἀδυνατῶσι διὰ τὴν ἔνδειαν· εἰσὶ γὰρ ἄνθρωποι τῇ φύσει. ἔνιαι δὲ κέρδος τὸ ἀκερδέστατον ἡγοῦνται, τὴν τῶν θεραπαινῶν κακουχίαν, βαρύνουσαι μὲν τοῖς ἔργοις, ὑποστελ λόμεναι δὲ τῶν ἐπιτηδείων· εἶτα ὀβολιαῖα κέρδη περιποιούμεναι μεγάλοις ζημιοῦνται τιμήμασι, δυσνοίαις καὶ ἐπιβουλαῖς κακίσταις. σοὶ δὲ πρόχειρον ἔστω τὸ μέτρημα τῶν σιτίων πρὸς τὸν ἀριθμὸν τῆς ἐριουργίας τοῖς ἐφ’ ἡμέραν πόνοις. <br> 3\. Kαὶ πρὸς μὲν τὴν δίαιταν οὕτως· πρὸς δὲ τὰς ἀταξίας τὸ σοὶ πρέπον, οὐ τὸ ἐκείναις συμφέρον ἐξυπηρετητέον. τιμᾶν μὲν γὰρ δεῖ θεραπαίνας τὸ κατ’ ἀξίαν· τὸ μὲν γὰρ ὠμὸν οὐκ οἴσει τῷ θυμῷ χάριν, τὸ δὲ μισοπόνηρον οὐχ ἧττον ὁ λογισμὸς βραβεύει. ἐὰν δὲ ἡ ὑπερβολὴ τῆς κακίας ἀνίκητος ᾖ, ἐξοριστέον μετὰ πράσεως· τὸ γὰρ ἀλλότριον τῆς χρείας ἀλλοτριούσθω καὶ τῆς κυρίας. ἔστω δέσοι γνώμη το ῦδε πρόεδρος, καθ’ ἣν γνώσῃ τὸ μὲν ἀληθὲς τῆς ἁμαρτίας πρὸς τὸ τῆς καταγνώσεως δίκαιον, τὸ δὲ τῶν ἡμαρτημένων μέγεθος πρὸς τὸ κατ’ ἀξίαν τῆς κολάσεως. <br> 4\. Δεσποτικαὶ δὲ καὶ συγγνώμη καὶ χάρις ἐφ’ ἡμαρτημένοις ζημίας ἀπαλλάττουσαι·[^14] οὕτω δὲ καὶ τὸ πρέπον ἐπὶ τοῦ οἰκείου κατὰ τὸν τρόπον διαφυλάξει. ἔνιαι γάρ, ὦ φίλη, ὑπ’ ὠμότητος καὶ μαστίζουσι τὰ τῶν θεραπαινῶν σώματα, θηριούμεναι διὰ ζῆλον ἢ θυμόν, οἷον ὑπομνηματογραφούμεναι τὴν ὑπερβολὴν τῆς πικρίας· αἱ μὲν γὰρ ἀνηλώθησαν χρόνῳ διαπονούμεναι, αἱ δὲ φυγῇ τὴν σωτηρίαν ἐπορίσαντο, τινὲς δὲ ἐπαύσαντο τοῦ ζῆν αὐτόχειρι θανάτῳ μεταστᾶσαι, καὶ λοιπὸν ἡ τῆς δεσποίνης μόνωσις ὀδυρομένης τὴν οἰκείαν ἀβουλίαν ἔρημον μετάνοιαν ἔχει. <br> 5\. Ἀλλ’, ὦ φίλη, ἴσθι μιμουμένη τὰ ὄργανα, ἃ \<δια\>φωνεῖ μᾶλλον ἀνειμένα, ἐκρήττεται δὲ μᾶλλον ἐπιτεινόμενα. καὶ γὰρ ἐπὶ τῶν θεραπαινῶν ταὐτόν· ἡ μὲν ἄγαν ἄνεσις διαφωνίαν ἐμποιεῖ τῆς πειθαρχίας, ἡ δὲ ἐπίτασις τῆς ἀνάγκης διάλυσιν τῆς φύσεως. καὶ ἐπὶ τούτου δεῖ νοεῖν· μέτρον δ’ ἐπὶ πᾶσιν ἄριστον. [ἔρρωσο.] | 1\. The right to manage household slaves is given by custom to you younger women as soon as you are married. Nonetheless, instruction by older women, who are always offering advice in everything that concerns domestic affairs, is necessary. It is proper first to recognize what you don’t know and to consider the advice of older women most suitable. In these things a young mind must be educated from girlhood. The first domestic responsibility for women is the management of slave women, and the most important aspect in dealing with slaves is, my dear, their good will. For this is not something purchased as (our) property along with their bodies, but intelligent owners create it afterwards. <br> 2\. And it is obtained through such fair treatment that they are neither exhausted by overwork nor lose strength because of deprivation. They are human beings by nature. Some women consider what is least profitable as a profit: the mistreatment of slave women, burdening them with chores while decreasing their rations. Securing petty profits in this way, they pay huge penalties: ill will and treachery of the worst kind. You, however, will have a convenient measure for the rations of food: in proportion to the amount of wool produced by a day’s work.  <br> 3\. This is all you need to do about their diet. As for lack of discipline, you must see to what suits you, not what is convenient for them. You should value slave-women according to their merit. Cruelty will not instill gratitude in their minds, while rational treatment assures discipline no less efficiently. If, however, it is impossible to suppress the excess of their malice, one must drive it out by means of selling them. Let the estranged slave, become (formally) estranged from the owner. [^15] In this, let it be your chief concern that you establish first the fact of the offence, with the aim of giving a just verdict, second the magnitude of the offense, with the aim of giving an appropriate punishment. <br> 4\. It is worthy of a woman who is in control to forgive and cancel punishment for transgressions; in doing so she shall uphold decency in a way that is true to her character. Some women, my dear, out of savagery actually whip the bodies of the slave women, and turn into beasts through jealousy or anger, as though carving (scil. into the slaves’ bodies) their extreme bitterness. Some servants have been killed through being worn out over time, others have sought salva-tion through escape, yet others died, having ended their lives with their own hands. Then at last the solitude of the mistress who bewails her own lack of judgment finally brings a change of mind—too late. <br> 5\. But you, my dear, mindfully imitate (the art of tuning) string instruments, which are out of tune when excessively loose and snap when strung too tight. The same holds true for the slave women: excessive leniency produces dissonance of discipline; severity inevitably destroys their lives. Finally, one needs to keep in mind that “measure is best in all things.” [Farewell.]
 
 [^14]: This sentence exceptionally follows Thesleff ’s text (198: 15–16). Städele eliminates χάρις and prints γνώμη rather than συγγνώμη: Δεσποτικὴ δὲ καὶ ἡ γνώμη [χάρις] ἐφ’ ἡμαρτημένοις ζημίας ἀπαλλάττουσα· (It is within the owner’s discretion to cancel punishment for transgressions.) These two concepts also appear in ThN and seem integral to the system of ethics presented in Theano’s letters. -DD
-
-
-### English
-
-
-
-1\. The right to manage household slaves is given by custom to you younger women as soon as you are married. Nonetheless, instruction by older women, who are always offering advice in everything that concerns domestic affairs, is necessary. It is proper first to recognize what you don’t know and to consider the advice of older women most suitable. In these things a young mind must be educated from girlhood. The first domestic responsibility for women is the management of slave women, and the most important aspect in dealing with slaves is, my dear, their good will. For this is not something purchased as (our) property along with their bodies, but intelligent owners create it afterwards.  
-2\. And it is obtained through such fair treatment that they are neither
-exhausted by overwork nor lose strength because of deprivation. They are human beings by nature. Some women consider what is least profitable as a profit: the mistreatment of slave women, burdening them with chores while decreasing their rations. Securing petty profits in this way, they pay huge penalties: ill will and treachery of the worst kind. You, however, will have a convenient measure for the rations of food: in proportion to the amount of wool produced by a day’s work.  <br>
-3\. This is all you need to do about their diet. As for lack of discipline, 
-you must see to what suits you, not what is convenient for them. You should value slave-women according to their merit. Cruelty will not instill gratitude in their minds, while rational treatment assures discipline no less efficiently. If, however, it is impossible to suppress the excess of their malice, one must drive it out by means of selling them. Let the estranged slave, become (formally) estranged from the owner. [^15] In this, let it be your chief concern that you establish first the fact of the offence, with the aim of giving a just verdict, second the magnitude of the offense, with the aim of giving an appropriate punishment.  
-4\. It is worthy of a woman who is in control to forgive and cancel punishment for transgressions; in doing so she shall uphold decency in a way that is true to her character. Some women, my dear, out of savagery actually whip the bodies of the slave women, and turn into beasts through jealousy or anger, as though carving (scil. into the slaves’ bodies) their extreme bitterness. Some servants have been killed through being worn out over time, others have sought salva-tion through escape, yet others died, having ended their lives with their own hands. Then at last the solitude of the mistress who bewails her own lack of judgment finally brings a change of mind—too late.  
-5\. But you, my dear, mindfully imitate (the art of tuning) string instru-
-ments, which are out of tune when excessively loose and snap when strung too tight. The same holds true for the slave women: excessive leniency produces dissonance of discipline; severity inevitably destroys their lives. Finally, one needs to keep in mind that “measure is best in all things.” [Farewell.]
-
-
-
-
 [^15]: Literally: “Let what is foreign to the need (of the house) be estranged from its mistress.” This process of estrangement is the opposite of oikeiōsis. -DD
 
 ## Theano to Timareta (Fragment)
 ### Note on Theano to Timareta
 This letter, in contrast to the others, is just a fragment of text. Further complicating study of Ancient Greek texts, many did not survive, or only partially survived, and this is an example of the latter. Alexis, a Greek comic poet, and one of his works are mentioned. The fragment also identifies Theano as the wife of Pythagoras, which is interesting as her identity and relationship to Pythagoras is unclear and often disputed. 
 
-### Greek
 
-
-T 200 No. 7; Poll. Onom. 10.21.5–9. . τὸν οἰκοδεσπότην καὶ τὴν
-οἰκοδέσποιναν . . . ταῦτα ἄμφω εὗρον ἐν Θεανοῦς τῆς Πυθαγόρου γυναικὸς
-ἐπιστολῇ πρὸς Τιμαρέταν γραφείσῃ. ὁ δὲ οἰκοδεσπότης ἔστι κα
-Ἀλέξιδος ἐν Ταραντίνοις. . .
-
-### English
-
-
-οἰκοδεσπότης “the master of the house” and οἰκοδέσποινα “the mistress of
-the house” I found both compound nouns in the letter that Theano the wife
-of Pythagoras has written for Timareta; οἰκοδεσπότης is also used in Alexis’
-The People of Tarentum.
+|Greek | English |
+|-------|-----------|
+| T 200 No. 7; Poll. Onom. 10.21.5–9. . τὸν οἰκοδεσπότην καὶ τὴν οἰκοδέσποιναν . . . ταῦτα ἄμφω εὗρον ἐν Θεανοῦς τῆς Πυθαγόρου γυναικὸς ἐπιστολῇ πρὸς Τιμαρέταν γραφείσῃ. ὁ δὲ οἰκοδεσπότης ἔστι κα Ἀλέξιδος ἐν Ταραντίνοις. . .| οἰκοδεσπότης “the master of the house” and οἰκοδέσποινα “the mistress of the house” I found both compound nouns in the letter that Theano the wife of Pythagoras has written for Timareta; οἰκοδεσπότης is also used in Alexis’ The People of Tarentum.|
 
 
 
