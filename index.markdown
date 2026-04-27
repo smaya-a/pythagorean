@@ -42,7 +42,7 @@ In this letter, Theano chastises Eubole for spoiling her children. She compares 
 
 |Greek | English |
 |-------|-----------|
-| V 166, 168; T 195–6; Hercher 603 No. 4 <br> Θεανὼ Εὐβούλῃ [χαίρειν]. <br> 1\. Ἀκούω σε τὰ παιδία τρυφερῶς ἄγειν· ἔστι δὲ ἀγαθῆς μητρὸς οὐχ ἡ πρὸς ἡδονὴν ἐπιμέλεια τῶν παίδων, ἀλλ᾽ ἡ πρὸς τὸ σώφρον ἀγωγή. βλέπε οὖν μὴ οὐ φιλοῦσης, ἀλλὰ κολακευού σης ἔργον ποιῇς· συμπεριφερομένη γὰρ ἡδονῇ παισὶν ἀκολάστοις ποιεῖ. τῇ γὰρ ἡδονῇ νέους συνήθους ἡδονῆς χρὴ οὖν, ὦ φίλη, τὴν τροφὴν τῶν παίδων μὴ διαστροφήν ἔχειν· ἡ δὲ τροφὴ διαστροφή της φύσεως ἐστίν ὅταν φιλόδησοι μὲν ταῖς ψυχαῖς, ἡδυπαθεῖς δὲ τοῖς σώμασι γίνονται, καὶ ταῖς μὲν φρονίμοις τοῖς δὲ μαλακώτεροι. <br> 2\. Δεῖ δέ καὶ πρὸς τὰ φοβερὰ γυμνάζειν τὰ τρεφόμενα, κἂν λυπηθῆναι κἂν πονῆσαι δεῖ, ἵνα μὴ τῶν παθῶν ἡ δούλα τούτων καὶ περὶ τὰς ἡδονὰς ἥκιστα καὶ περὶ τοὺς πόνους ὀκνηρά, ἀλλ᾽ ἵνα τὰ καλὰ πρὸ πάντων τιμῶσιν, ὧν μὲν ἀπεχόμενοι, τοῖς δὲ ἐμμένωσιν. οὐδὲ πλησμονικὰ μὲν ταῖς τροφαῖς, πολυτελεῖς δὲ ταῖς ἡδοναῖς, ἀκόλαστοι δὲ ταῖς ἀνδρῶν παιδαὶἄπται αὐτὰ ποιεῖν, καὶ παντὶ μέλει λέγειν, παν δ᾽ ἐπιτηδεῖον ἔδαισαν, ἔτι δὲ φοβούμεν μηδ᾽ ἢν κλάσῃ, φιλοτιμομμένου δὲ, ἢν γελά, κἂν τὴν τροφὴν πᾶν μὴ κακῶς ἐπὶ γελώσαν, καὶ τοῦ μέν θέρους ἡδίων, τοῦ δὲ χειμῶνος κάμμα παρέχουσαι καὶ πολλὴν χλίδα· ὧν οὔτε πειρχοὶ γε παιδὸς οὐδενὸς πέφυνται, καὶ τρέφονται μέν ἥδιστα, αὐξονται δὲ οὐχ ἥσσω, διδάσκεται δὲ παρὰ πολλἁ κρείσσω. <br> 3\. Σὺ δ᾽ οἶον Σαρθαναπάλλου γονγὴν τιθύνῃ τὰ τέκνα, τὴν τῶν ἀρρένων φύσιν θρήπτουσα ταῖς ἡδοναῖς. τί γὰρ ἂν ποιήσειε τῆς παιδὸς, ὃ ἂν μὴ τάχιον φαγὴν καλεῖς, κἂν ἐσθίῃ, τὰ πέπυρα τῶν ὄψων ζητεῖ, κἂν καῦμα \<ᾖ\> παρέτια, κἂν ψύχος, \<**\> πτοηματίζει, κἂν ἐπιτιμᾷ τις, ἀντιμάχεται, κἂν μὴ πρὸς ἡδονην ὑπηρετεῖ, λυπεῖται, κἂν μὴ μαλακία δυσκολαίνει, καὶ κακοχολοῖ πρὸς ἡδονὴν καὶ βαταλίζεται περαγομένηνον;  <br> 4\. Ἐπιμελῶς δὴ, ὦ φίλη, εἰδυῖα ὅτι τὰ σπαταλῶντα τῶν παίδων, ὅταν ἀκόμια πρὸς ἄνδρας, ἀνδρόποδα γίνεται, τὰς τοιαύτας ἡδονὰς ὁρῶμεν, καὶ τὴν τροφὴν ἀυστηράν, μὴ τρυφερὰν ὅπου ποιοῦσα καὶ ἔσχα καὶ λυμὸν καὶ δάιλος ἐγγίνεται, ἐπὶ δὲ καὶ ψύχος καὶ θάλπος καὶ αἰδὸς τὴν ἀπὸ τῶν συνηλιχῶν ἢ τῶν ἐπιστάτω· οὕτω γὰρ καὶ γεννικὰ εἶναι συμβαίνει κατὰ ψυχὴν ἀναπνεύειν ἢ ἐπιτιμούμενα. ὁ γὰρ πονῶν, φίλη, προϊστουσάν τινες τοὺς παιδὸς εἰσι τελευθούσης ἀρετῆς, εἰς ἐμβαρεῖς ἀποχωροῦσι τῆς ἡδονῆς βαρὴν οἰκεῖσθαι φέρουφορούμεναι τὸν καρπὸν ἐλλεπούσιν, καὶ ὑπὸ τῆς τρυφῆς οἱ παῖδες ὑβρεως καὶ πολλῆς ἀχρειότητος κακίαν γενήσωσιν. | 1\. I hear that you are spoiling your children. The task of a good mother, however, is not to endeavor to please her children, but instead to train them in self-restraint. Beware that you don’t act like an indulgent mother rather than a loving one, because pleasure ingrained in children leads to a lack of discipline. For what indeed is more pleasing to the youngsters than an ingrained pleasure? You must, my dear, nurture your children without corrupting their nature. Nurture can corrupt children’s nature when their minds seek, and their bodies experience pleasures, and thus they become intellectually lazy and physically weak. [^19] 2\. We should train the children we raise to face fear – even if this means they may have to grieve and suffer – so that they do not become slaves to such emotions, eager for pleasures and intolerant of hardship, but instead develop the utmost reverence for what is right, abstain from pleasures and withstand hardships. You should not make them gluttonous for food, spoiled with diverse pleasures, and wild through their unrestrained childish games, or allow them to say and try everything they want, while you are afraid when they cry, are proud when they laugh, laugh when they hit the nurse or insult you, provide shade in the summer and heat in the winter, and many other luxuries. Poor children know none of these (luxuries) and are brought up more easily, grow up not the worse for it, and turn out much stronger. 3\. You, however, nurse your children like the progeny of Sardanapalus, weakening the nature of your sons through luxurious living. What can become of a child who cries if he does not eat soon enough; who, when he eats, seeks pleasure in fancy food; who is exhausted when it is hot, shakes and collapses when it is cold; who argues when someone criticizes him, suffers when someone doesn’t satisfy his whims, is annoyed whenever he is not chewing, wastes time on idle pleasures, and wanders around endlessly mumbling to himself? 4\. Therefore, my dear, knowing that spoiled children when they grow up to be men, become slaves (scil. to passion), be careful to take away such pleasures, by making their meals austere rather than luxurious, allowing them to endure hunger and thirst, and even cold, heat, and shame before their peers and superiors. For only in this way can they become noble in spirit whether they are praised or reprimanded. For hardships, my friend, are a sort of dye mordant to which children are exposed when their virtue is perfected, and those who have been dipped long enough wear the hue of virtue as something of their own. So, make sure, my dear, that because of (your) indulgence, your children do not acquire the vices of insolence and utter worthlessness, in the same way that poorly tended vines bear inferior fruit.|  
+| V 166, 168; T 195–6; Hercher 603 No. 4 <br> Θεανὼ Εὐβούλῃ [χαίρειν]. <br> 1\. Ἀκούω σε τὰ παιδία τρυφερῶς ἄγειν· ἔστι δὲ ἀγαθῆς μητρὸς οὐχ ἡ πρὸς ἡδονὴν ἐπιμέλεια τῶν παίδων, ἀλλ᾽ ἡ πρὸς τὸ σώφρον ἀγωγή. βλέπε οὖν μὴ οὐ φιλοῦσης, ἀλλὰ κολακευού σης ἔργον ποιῇς· συμπεριφερομένη γὰρ ἡδονῇ παισὶν ἀκολάστοις ποιεῖ. τῇ γὰρ ἡδονῇ νέους συνήθους ἡδονῆς χρὴ οὖν, ὦ φίλη, τὴν τροφὴν τῶν παίδων μὴ διαστροφήν ἔχειν· ἡ δὲ τροφὴ διαστροφή της φύσεως ἐστίν ὅταν φιλόδησοι μὲν ταῖς ψυχαῖς, ἡδυπαθεῖς δὲ τοῖς σώμασι γίνονται, καὶ ταῖς μὲν φρονίμοις τοῖς δὲ μαλακώτεροι. <br> 2\. Δεῖ δέ καὶ πρὸς τὰ φοβερὰ γυμνάζειν τὰ τρεφόμενα, κἂν λυπηθῆναι κἂν πονῆσαι δεῖ, ἵνα μὴ τῶν παθῶν ἡ δούλα τούτων καὶ περὶ τὰς ἡδονὰς ἥκιστα καὶ περὶ τοὺς πόνους ὀκνηρά, ἀλλ᾽ ἵνα τὰ καλὰ πρὸ πάντων τιμῶσιν, ὧν μὲν ἀπεχόμενοι, τοῖς δὲ ἐμμένωσιν. οὐδὲ πλησμονικὰ μὲν ταῖς τροφαῖς, πολυτελεῖς δὲ ταῖς ἡδοναῖς, ἀκόλαστοι δὲ ταῖς ἀνδρῶν παιδαὶἄπται αὐτὰ ποιεῖν, καὶ παντὶ μέλει λέγειν, παν δ᾽ ἐπιτηδεῖον ἔδαισαν, ἔτι δὲ φοβούμεν μηδ᾽ ἢν κλάσῃ, φιλοτιμομμένου δὲ, ἢν γελά, κἂν τὴν τροφὴν πᾶν μὴ κακῶς ἐπὶ γελώσαν, καὶ τοῦ μέν θέρους ἡδίων, τοῦ δὲ χειμῶνος κάμμα παρέχουσαι καὶ πολλὴν χλίδα· ὧν οὔτε πειρχοὶ γε παιδὸς οὐδενὸς πέφυνται, καὶ τρέφονται μέν ἥδιστα, αὐξονται δὲ οὐχ ἥσσω, διδάσκεται δὲ παρὰ πολλἁ κρείσσω. <br> 3\. Σὺ δ᾽ οἶον Σαρθαναπάλλου γονγὴν τιθύνῃ τὰ τέκνα, τὴν τῶν ἀρρένων φύσιν θρήπτουσα ταῖς ἡδοναῖς. τί γὰρ ἂν ποιήσειε τῆς παιδὸς, ὃ ἂν μὴ τάχιον φαγὴν καλεῖς, κἂν ἐσθίῃ, τὰ πέπυρα τῶν ὄψων ζητεῖ, κἂν καῦμα \<ᾖ\> παρέτια, κἂν ψύχος, \<**\> πτοηματίζει, κἂν ἐπιτιμᾷ τις, ἀντιμάχεται, κἂν μὴ πρὸς ἡδονην ὑπηρετεῖ, λυπεῖται, κἂν μὴ μαλακία δυσκολαίνει, καὶ κακοχολοῖ πρὸς ἡδονὴν καὶ βαταλίζεται περαγομένηνον;  <br> 4\. Ἐπιμελῶς δὴ, ὦ φίλη, εἰδυῖα ὅτι τὰ σπαταλῶντα τῶν παίδων, ὅταν ἀκόμια πρὸς ἄνδρας, ἀνδρόποδα γίνεται, τὰς τοιαύτας ἡδονὰς ὁρῶμεν, καὶ τὴν τροφὴν ἀυστηράν, μὴ τρυφερὰν ὅπου ποιοῦσα καὶ ἔσχα καὶ λυμὸν καὶ δάιλος ἐγγίνεται, ἐπὶ δὲ καὶ ψύχος καὶ θάλπος καὶ αἰδὸς τὴν ἀπὸ τῶν συνηλιχῶν ἢ τῶν ἐπιστάτω· οὕτω γὰρ καὶ γεννικὰ εἶναι συμβαίνει κατὰ ψυχὴν ἀναπνεύειν ἢ ἐπιτιμούμενα. ὁ γὰρ πονῶν, φίλη, προϊστουσάν τινες τοὺς παιδὸς εἰσι τελευθούσης ἀρετῆς, εἰς ἐμβαρεῖς ἀποχωροῦσι τῆς ἡδονῆς βαρὴν οἰκεῖσθαι φέρουφορούμεναι τὸν καρπὸν ἐλλεπούσιν, καὶ ὑπὸ τῆς τρυφῆς οἱ παῖδες ὑβρεως καὶ πολλῆς ἀχρειότητος κακίαν γενήσωσιν. | 1\. I hear that you are spoiling your children. The task of a good mother, however, is not to endeavor to please her children, but instead to train them in self-restraint. Beware that you don’t act like an indulgent mother rather than a loving one, because pleasure ingrained in children leads to a lack of discipline. For what indeed is more pleasing to the youngsters than an ingrained pleasure? You must, my dear, nurture your children without corrupting their nature. Nurture can corrupt children’s nature when their minds seek, and their bodies experience pleasures, and thus they become intellectually lazy and physically weak. [^19] <br> 2\. We should train the children we raise to face fear – even if this means they may have to grieve and suffer – so that they do not become slaves to such emotions, eager for pleasures and intolerant of hardship, but instead develop the utmost reverence for what is right, abstain from pleasures and withstand hardships. You should not make them gluttonous for food, spoiled with diverse pleasures, and wild through their unrestrained childish games, or allow them to say and try everything they want, while you are afraid when they cry, are proud when they laugh, laugh when they hit the nurse or insult you, provide shade in the summer and heat in the winter, and many other luxuries. Poor children know none of these (luxuries) and are brought up more easily, grow up not the worse for it, and turn out much stronger. <br> 3\. You, however, nurse your children like the progeny of Sardanapalus, weakening the nature of your sons through luxurious living. What can become of a child who cries if he does not eat soon enough; who, when he eats, seeks pleasure in fancy food; who is exhausted when it is hot, shakes and collapses when it is cold; who argues when someone criticizes him, suffers when someone doesn’t satisfy his whims, is annoyed whenever he is not chewing, wastes time on idle pleasures, and wanders around endlessly mumbling to himself? <br> 4\. Therefore, my dear, knowing that spoiled children when they grow up to be men, become slaves (scil. to passion), be careful to take away such pleasures, by making their meals austere rather than luxurious, allowing them to endure hunger and thirst, and even cold, heat, and shame before their peers and superiors. For only in this way can they become noble in spirit whether they are praised or reprimanded. For hardships, my friend, are a sort of dye mordant to which children are exposed when their virtue is perfected, and those who have been dipped long enough wear the hue of virtue as something of their own. So, make sure, my dear, that because of (your) indulgence, your children do not acquire the vices of insolence and utter worthlessness, in the same way that poorly tended vines bear inferior fruit.|  
 
 [^19]: Literally: “they become pleasure-seeking in their souls, pleasure-loving in their bodies, and their souls become lazy and their bodies too weak.” -DD  
 
@@ -51,146 +51,9 @@ In this letter, Theano chastises Eubole for spoiling her children. She compares 
 ### Note on Theano to Nicostrate
 In this letter, Theano advises Nicostrate on how to handle her husband's infidelity. He has been having an affair with a _hetaera_, a type of high-class courtesan. Theano urges Nicostrate not to act in anger against her husband's "madness," and instead take the high road. She uses the story of Medea, who brutally killed her children and her husband's new wife after he abandoned her, as a caution. This advice reflects the lack of socially acceptable options that Greek women had when it came to marriage. 
 
-### Greek
-
-S VI 170, 172, 174; T 198–200; Hercher 604 No. 5   
-
-
-Θεανὼ Νικοστράτῃ [χαίρειν].   
-1\. Ἤκουον τὴν τοῦ ἀνδρός σου παράνοιαν, ὅτι τὴν ἑταίραν   
-ἔχει, σὺ δὲ ὅτι ζηλοτυπεῖς αὐτόν. ἐγὼ δέ, ὦ φίλη, πολλοὺς   
-ἔγνωκα τῆς αὐτῆς νόσου· θηρεύονται γὰρ ὡς ἔοικεν ὑπὸ τῶν   
-γυναικῶν τούτων καὶ κατέχονται καὶ οὐκ ἔχουσι νοῦν. σὺ δὲ   
-ἄθυμος εἶ καὶ νύκτα καὶ μεθ’ ἡμέραν καὶ ἀδημονεῖς καὶ μη-  
-χανᾷ τι κατ’ αὐτοῦ. μὴ σύ γε, ὦ φίλη· γαμετῆς γὰρ ἀρετή   
-ἐστιν οὐχ ἡ παρατήρησις τἀνδρός, ἀλλ’ ἡ συμπεριφορά· συμ-  
-περιφορὰ δέ ἐστι τὸ φέρειν ἄγνοιαν. εἶθ’ ἑταίρᾳ μὲν πρὸς   
-ἡδονὴν ὁμιλεῖ, γαμετῇ δὲ πρὸς τὸ συμφέρον· συμφέρον δὲ κα-        (10)     
-κοῖς κακὰ μὴ μίσγειν μηδὲ παρανοίᾳ παράνοιαν ἐπάγειν.   
-2\. Ἔνια δὲ ἁμαρτήματα, φίλη, ἐλεγχόμενα μὲν ἐπὶ πλέον ἀν-    
-ερεθίζεται, σιωπώμενα δὲ παύεται μᾶλλον, ὡς τὸ πῦρ ἡσυχίᾳ     
-φασὶ σβέννυσθαι. ἐὰν γὰρ βουλόμενόν σε λεληθέναι δοκεῖν     
-ἐλέγχουσα ἀφαιρήσῃς τὸ παρακάλυμμα τοῦ πάθους, καὶ φανε-          (15)       
-ρῶς ἁμαρτήσεται. σὺ δὲ τὴν φιλίαν ἡγῇ <**> τοῦ ἀνδρὸς οὐκ       
-ἐν τῇ καλοκαγαθίᾳ· τοῦτο γὰρ ἡ χάρις τῆς κοινωνίας. νόμι-      
-ζε οὖν πρὸς μὲν τὴν ἑταίραν ῥαθυμήσοντα πορεύεσθαι ἐκεῖ-     
-νον, σοὶ δὲ συμβιώσαντα παρεῖναι, καὶ σὲ μὲν φιλεῖν κατὰ     
-γνώμην, ἐκείνην δὲ τῷ πάθει.                                       (20)    
-3\. Βραχὺς δὲ ὁ τούτου καιρός· ἅμα γὰρ ἀκμὴν ἔχει καὶ κό-     
-ρον, καὶ παρίσταται ταχὺ καὶ παύεται. ὀλιγοχρόνιος γὰρ ὁ     
-(172) ἔρως ἐστι πρὸς ἑταίραν ἀνδρὶ μὴ σφόδρα κακῷ· τί γάρ ἐστι     
-ματαιότερον ἐπιθυμίας ἀπολαυούσης ἀδίκου; διὸ καὶ μειῶν     
-τὸν βίον καὶ διαβάλλων τὸ εὔσχημον αἰσθανθήσεταί ποτε·     
-οὐδεὶς γὰρ ἐπιμένει φρονῶν αὐθαιρέτῳ βλάβῃ. καλούμενος     
-οὖν ὑπὸ τῶν πρός σε δικαίων καὶ τὰς περὶ τὸν βίον ἐλαττώ-     
-σεις ὁρῶν [αἰσθήσεταί ποτέ σου] καὶ τὴν ἀπὸ τῆς καταγνώ-    
-σεως ὕβριν οὐ φέρων ταχὺ μεταγνώσεται.     
-4\. Σὺ δέ, φίλη, ζῆθι οὐχ ἑταίραις ἀποκρινομένη, τῇ μὲν εὐ-           (30)       
-ταξίᾳ πρὸς τὸν ἄνδρα διαφέρουσα, τῇ δὲ ἐπιμελείᾳ πρὸς τὸν   
-οἶκον, τῇ δὲ συναλλαγῇ περὶ τὰς χρωμένας, τῇ δὲ φιλοστορ-   
-γίᾳ περὶ τὰ τέκνα. οὐ ζηλοτυπητέον οὖν σοι πρὸς ἐκείνην  
-(πρὸς γὰρ τὰς ἐναρέτους ἐκτείνειν τὸν ζῆλον καλόν), ἑαυ-   
-τὴν δὲ παρεκτέον ἐπιτηδείαν ταῖς διαλλαγαῖς· τὰ γὰρ καλὰ   
-ἤθη καὶ παρ’ ἐχθροῖς εὔνοιαν φέρει, φίλη, καὶ μόνης καλο-   
-καγαθίας ἔργον ἐστὶν ἡ τιμή, ταύτῃ δὲ καὶ δυνατὸν ἀνδρὸς   
-ἐξουσίαν καθυπερέχειν γυναικὶ καὶ τιμᾶσθαι πλέον ἢ θερα-  
-πεύειν †τὸν ἐχθρόν.     
-5\. Καρτερούμενος γοῦν ὑπὸ σοῦ μᾶλλον αἰσχύνεται, τάχιον              (40)     
-δὲ διαλλαγῆναι θελήσει, προσπαθέστερον δὲ φιλοστοργήσει     
-συνεγνωκὼς τὴν ἀδικίαν τὴν εἰς σέ, κατανοῶν τε τὴν προσ-     
-οχὴν ἐπὶ τοῦ βίου καὶ πεῖραν τῆς στοργῆς λαμβάνων τῆς πρὸς     
-αὑτόν. ὥσπερ δὲ αἱ κακοπάθειαι τοῦ σώματος ἡδείας τὰς ἀνα-     
-παύσεις ποιοῦσιν, οὕτως αἱ διαφοραὶ τῶν φίλων οἰκειοτέρας     
-τὰς διαλλαγὰς φέρουσιν.     
-6\. Σὺ δὲ καὶ τὰ βουλεύματα τοῦ πάθους ἀντίθες· νοσοῦντος     
-γὰρ ἐκείνου καὶ σὲ παρακαλεῖ νοσεῖν ταῖς λύπαις, καὶ ἁμαρ-     
-τάνοντος περὶ τὸ εὔσχημον καὶ σὲ περὶ τὸν κόσμον ἁμαρτά-     
-(174) νειν, καὶ καταβλάπτοντος τὸν βίον καὶ σὲ καταβλάπτειν τὸ     (50)     
-συμφέρον. ἀφ’ ὧν ἐπ’ αὐτὸν συντετάχθαι δόξεις καὶ κολαζο-     
-μένη ἐκεῖνον καὶ σεαυτὴν κολάζειν. εἰ γὰρ καὶ ἀφεμένη πο-     
-ρεύσῃ, ἑτέρου ἄρα πειραθήσῃ ἀνδρὸς τοῦ προτέρου ἀπαλλαγεῖ-     
-σα, κἂν ἐκεῖνος ἁμάρτῃ τὰ ὅμοια, πάλιν ἄλλου (οὐ φορητὴ     
-γὰρ νέαις χηρεία), ἢ μόνη μενεῖς ἀπ’ ἀνδρὸς οἷόν περ ἄζυξ.       
-7\. Ἀλλ’ ἀμελήσεις τοῦ οἴκου καὶ καταφθερεῖς τὸν ἄνδρα; ἐπ-     
-ωδύνου ἄρα βίου συνδιαιρήσῃ τὴν βλάβην. ἀλλ’ ἀμυνεῖ τὴν     
-ἑταίραν; περιστήσεταί σε φυλαττομένη, κἂν ἀμύνῃ, μάχιμός     
-ἐστιν οὐκ ἐρυθριῶσα γυνή. ἀλλὰ καλὸν ὁσημέραι μάχεσθαι πρὸς     
-τὸν ἄνδρα; καὶ τί πλέον; αἱ γὰρ μάχαι καὶ αἱ λοιδορίαι τὴν             (60)     
-μὲν ἀκολασίαν οὐ παύουσιν, τὴν δὲ διαφορὰν ταῖς προκοπαῖς     
-αὔξουσιν. τί δέ; βουλεύσῃ τι κατ’ ἐκείνου; μή, φίλη. ζηλο-     
-τυπίας κρατεῖν ἡ τραγῳδία ἐδίδαξε δραμάτων ἔχουσα σύνταξιν,     
-ἐν οἷς παρηνόμησε Μήδεια. ἀλλ’ὥσπερ τῆς νόσου τῶν ὀφθαλ-    
-μῶν ἀπέχειν δεῖ τὰς χεῖρας, οὕτως καὶ σὺ τοῦ πάθους χώρι-    
-ζε τὴν προσποίησιν· διακαρτεροῦσα γὰρ θᾶττον τὸ πάθος σβέ-    
-σεις.    
-
-
-### English
-
-
-1\. I have heard about your husband’s madness; he apparently keeps a hetaera   
-and you are jealous of him. I have known, my dear, many men with this   
-disease. It would seem that they are hunted down and captured by such   
-women and lose their mind. You, however, despair night and day, and in   
-your distress plot against him. Don’t do this, my dear! The virtue of a wife   
-lies not in keeping a close watch on her husband’s affairs, but in being his   
-companion. And companionship means tolerating his error. Your husband   
-associates with the hetaera for pleasure, with his wife for what is beneficial   
-(scil. for him). And it is beneficial not to join misery to misery and not to add   
-madness to madness.    
-2\. Certain transgressions, my dear, when examined are made even worse,   
-but when passed over in silence instead they come to an end, just as they say   
-that fire dies out when undisturbed. If you expose him, when he wants you   
-to appear not to have noticed, you will lift the veil of his disease and he will   
-be openly doing wrong. You think that the love of your husband . . . is not up  
-to the moral standard:[^11] for this (high standard) is expected of your rela-   
-tionship. Consider then, that while he visits the hetaera for pleasure, he stays   
-with you as your lifelong companion and that, while his love for you is   
-rational, his love for her is driven by passion.     
-3\. And an affair of passion is short-lived; as soon as it peaks it becomes too   
-much; it begins and ends quickly. A man who is not entirely evil will not be   
-in love with a hetaera for long. For what is more fruitless than a desire   
-enjoyed unfairly? Therefore, at some point he will realize that he is dimin-   
-ishing his assets and offending decency. No one consciously continues to be   
-self-destructive. Called back to you, then, by a sense of fairness towards you,   
-seeing how his assets have diminished [for at some point he will take note of   
-you], and unable to bear the contempt that comes with moral condemna-   
-tion, he will soon change his mind.    
-4\. As for you, my dear, don’t spend your life responding to hetaerae but   
-distinguish yourself by your tactful behavior towards your husband, by care  
-for the household, friendly behavior towards your acquaintances, and tender   
-love for your children. You should not compete with this woman (for it is   
-commendable to extend good rivalry only towards those who are virtuous),   
-but rather prepare yourself to make conciliatory gestures. Noble character   
-incites good will even among enemies, my dear, and only upright standards   
-can achieve respect, and, in this way, it is possible for a woman to surpass her   
-husband’s authority and be respected instead of serving the enemy.[^12]     
-5\. If you tolerate his behavior, he will be more ashamed and will desire   
-reconciliation sooner. He will love you even more tenderly when he recog-   
-nizes his unfair treatment of you, realizes that you take care of his property,  
-and has proof of your love for him. In the same way that the unpleasant   
-sensations of the body render the moments of respite all the more pleasant,   
-discord among friends leads to more intimate moments of reconciliation.    
-6\. You, however, must resist the prompts of passion. For it demands that   
-you fall ill from sorrow because of your husband’s illness, that you disregard   
-decency because of his disregard of morals, that you act against your best   
-interests because he is ruining his life. If you yield,[^13] you will give the   
-impression that you have joined him in battle, and by chastising him you   
-also chastise yourself. If you break up with him and leave, you will test   
-another husband, having left the first one, and, should he err in similar   
-matters, again, another husband (for being single is unbearable for young   
-women). Or perhaps you will remain alone without a husband, like a spinster.    
-7\. So, are you going to neglect your house and ruin your husband? If so, you   
-shall choose a life of pain and suffering. You say that you are defending   
-yourself against the hetaera? She will be careful to avoid you, and were she to defend   
-herself, a woman who does not blush can put up a fight. So, is it good to quarrel   
-with your husband every day? And what is gained? Quarrels and insults do not   
-put an end to irresponsibility, but progressively increase discord. What else?   
-Are you going to plot against him? Please don’t, my dear. The tragedy that   
-contains the sequence of events in which Medea became a criminal has taught   
-us to control jealousy. Just as when one’s eyes are sick, one has to keep one’s   
-hands away from them, so you too avoid interfering with his illness. Through   
-endurance you will put an end to his illness sooner.  
+|Greek | English |
+|-------|-----------|
+| S VI 170, 172, 174; T 198–200; Hercher 604 No. 5 <br>Θεανὼ Νικοστράτῃ [χαίρειν]. <br> 1\. Ἤκουον τὴν τοῦ ἀνδρός σου παράνοιαν, ὅτι τὴν ἑταίραν ἔχει, σὺ δὲ ὅτι ζηλοτυπεῖς αὐτόν. ἐγὼ δέ, ὦ φίλη, πολλοὺς ἔγνωκα τῆς αὐτῆς νόσου· θηρεύονται γὰρ ὡς ἔοικεν ὑπὸ τῶν γυναικῶν τούτων καὶ κατέχονται καὶ οὐκ ἔχουσι νοῦν. σὺ δὲ ἄθυμος εἶ καὶ νύκτα καὶ μεθ’ ἡμέραν καὶ ἀδημονεῖς καὶ μηχανᾷ τι κατ’ αὐτοῦ. μὴ σύ γε, ὦ φίλη· γαμετῆς γὰρ ἀρετή ἐστιν οὐχ ἡ παρατήρησις τἀνδρός, ἀλλ’ ἡ συμπεριφορά· συμπεριφορὰ δέ ἐστι τὸ φέρειν ἄγνοιαν. εἶθ’ ἑταίρᾳ μὲν πρὸς ἡδονὴν ὁμιλεῖ, γαμετῇ δὲ πρὸς τὸ συμφέρον· συμφέρον δὲ κακοῖς κακὰ μὴ μίσγειν μηδὲ παρανοίᾳ παράνοιαν ἐπάγειν. <br> 2\. Ἔνια δὲ ἁμαρτήματα, φίλη, ἐλεγχόμενα μὲν ἐπὶ πλέον ἀνερεθίζεται, σιωπώμενα δὲ παύεται μᾶλλον, ὡς τὸ πῦρ ἡσυχίᾳ φασὶ σβέννυσθαι. ἐὰν γὰρ βουλόμενόν σε λεληθέναι δοκεῖν ἐλέγχουσα ἀφαιρήσῃς τὸ παρακάλυμμα τοῦ πάθους, καὶ φανερῶς ἁμαρτήσεται. σὺ δὲ τὴν φιλίαν ἡγῇ <**> τοῦ ἀνδρὸς οὐκ ἐν τῇ καλοκαγαθίᾳ· τοῦτο γὰρ ἡ χάρις τῆς κοινωνίας. νόμιζε οὖν πρὸς μὲν τὴν ἑταίραν ῥαθυμήσοντα πορεύεσθαι ἐκεῖνον, σοὶ δὲ συμβιώσαντα παρεῖναι, καὶ σὲ μὲν φιλεῖν κατὰ γνώμην, ἐκείνην δὲ τῷ πάθει. <br> 3\. Βραχὺς δὲ ὁ τούτου καιρός· ἅμα γὰρ ἀκμὴν ἔχει καὶ κόρον, καὶ παρίσταται ταχὺ καὶ παύεται. ὀλιγοχρόνιος γὰρ ὁ ἔρως ἐστι πρὸς ἑταίραν ἀνδρὶ μὴ σφόδρα κακῷ· τί γάρ ἐστι ματαιότερον ἐπιθυμίας ἀπολαυούσης ἀδίκου; διὸ καὶ μειῶν τὸν βίον καὶ διαβάλλων τὸ εὔσχημον αἰσθανθήσεταί ποτε· οὐδεὶς γὰρ ἐπιμένει φρονῶν αὐθαιρέτῳ βλάβῃ. καλούμενος οὖν ὑπὸ τῶν πρός σε δικαίων καὶ τὰς περὶ τὸν βίον ἐλαττώσεις ὁρῶν [αἰσθήσεταί ποτέ σου] καὶ τὴν ἀπὸ τῆς καταγνώσεως ὕβριν οὐ φέρων ταχὺ μεταγνώσεται. <br> 4\. Σὺ δέ, φίλη, ζῆθι οὐχ ἑταίραις ἀποκρινομένη, τῇ μὲν εὐταξίᾳ πρὸς τὸν ἄνδρα διαφέρουσα, τῇ δὲ ἐπιμελείᾳ πρὸς τὸν οἶκον, τῇ δὲ συναλλαγῇ περὶ τὰς χρωμένας, τῇ δὲ φιλοστοργίᾳ περὶ τὰ τέκνα. οὐ ζηλοτυπητέον οὖν σοι πρὸς ἐκείνην (πρὸς γὰρ τὰς ἐναρέτους ἐκτείνειν τὸν ζῆλον καλόν), ἑαυτὴν δὲ παρεκτέον ἐπιτηδείαν ταῖς διαλλαγαῖς· τὰ γὰρ καλὰ ἤθη καὶ παρ’ ἐχθροῖς εὔνοιαν φέρει, φίλη, καὶ μόνης καλοκαγαθίας ἔργον ἐστὶν ἡ τιμή, ταύτῃ δὲ καὶ δυνατὸν ἀνδρὸς ἐξουσίαν καθυπερέχειν γυναικὶ καὶ τιμᾶσθαι πλέον ἢ θεραπεύειν †τὸν ἐχθρόν. <br> 5\. Καρτερούμενος γοῦν ὑπὸ σοῦ μᾶλλον αἰσχύνεται, τάχιον δὲ διαλλαγῆναι θελήσει, προσπαθέστερον δὲ φιλοστοργήσει συνεγνωκὼς τὴν ἀδικίαν τὴν εἰς σέ, κατανοῶν τε τὴν προσοχὴν ἐπὶ τοῦ βίου καὶ πεῖραν τῆς στοργῆς λαμβάνων τῆς πρὸςαὑτόν. ὥσπερ δὲ αἱ κακοπάθειαι τοῦ σώματος ἡδείας τὰς ἀναπαύσεις ποιοῦσιν, οὕτως αἱ διαφοραὶ τῶν φίλων οἰκειοτέρας τὰς διαλλαγὰς φέρουσιν. <br> 6\. Σὺ δὲ καὶ τὰ βουλεύματα τοῦ πάθους ἀντίθες· νοσοῦντος γὰρ ἐκείνου καὶ σὲ παρακαλεῖ νοσεῖν ταῖς λύπαις, καὶ ἁμαρτάνοντος περὶ τὸ εὔσχημον καὶ σὲ περὶ τὸν κόσμον ἁμαρτά νειν, καὶ καταβλάπτοντος τὸν βίον καὶ σὲ καταβλάπτειν τὸ συμφέρον. ἀφ’ ὧν ἐπ’ αὐτὸν συντετάχθαι δόξεις καὶ κολαζομένη ἐκεῖνον καὶ σεαυτὴν κολάζειν. εἰ γὰρ καὶ ἀφεμένη πορεύσῃ, ἑτέρου ἄρα πειραθήσῃ ἀνδρὸς τοῦ προτέρου ἀπαλλαγεῖσα, κἂν ἐκεῖνος ἁμάρτῃ τὰ ὅμοια, πάλιν ἄλλου (οὐ φορητὴ γὰρ νέαις χηρεία), ἢ μόνη μενεῖς ἀπ’ ἀνδρὸς οἷόν περ ἄζυξ. <br> 7\. Ἀλλ’ ἀμελήσεις τοῦ οἴκου καὶ καταφθερεῖς τὸν ἄνδρα; ἐπωδύνου ἄρα βίου συνδιαιρήσῃ τὴν βλάβην. ἀλλ’ ἀμυνεῖ τὴν ἑταίραν; περιστήσεταί σε φυλαττομένη, κἂν ἀμύνῃ, μάχιμός ἐστιν οὐκ ἐρυθριῶσα γυνή. ἀλλὰ καλὸν ὁσημέραι μάχεσθαι πρὸς τὸν ἄνδρα; καὶ τί πλέον; αἱ γὰρ μάχαι καὶ αἱ λοιδορίαι τὴν μὲν ἀκολασίαν οὐ παύουσιν, τὴν δὲ διαφορὰν ταῖς προκοπαῖς αὔξουσιν. τί δέ; βουλεύσῃ τι κατ’ ἐκείνου; μή, φίλη. ζηλοτυπίας κρατεῖν ἡ τραγῳδία ἐδίδαξε δραμάτων ἔχουσα σύνταξιν, ἐν οἷς παρηνόμησε Μήδεια. ἀλλ’ὥσπερ τῆς νόσου τῶν ὀφθαλμῶν ἀπέχειν δεῖ τὰς χεῖρας, οὕτως καὶ σὺ τοῦ πάθους χώριζε τὴν προσποίησιν· διακαρτεροῦσα γὰρ θᾶττον τὸ πάθος σβέσεις. |  1\. I have heard about your husband’s madness; he apparently keeps a hetaera and you are jealous of him. I have known, my dear, many men with this disease. It would seem that they are hunted down and captured by such women and lose their mind. You, however, despair night and day, and in your distress plot against him. Don’t do this, my dear! The virtue of a wife lies not in keeping a close watch on her husband’s affairs, but in being his companion. And companionship means tolerating his error. Your husband associates with the hetaera for pleasure, with his wife for what is beneficial (scil. for him). And it is beneficial not to join misery to misery and not to add madness to madness. <br> 2\. Certain transgressions, my dear, when examined are made even worse, but when passed over in silence instead they come to an end, just as they say that fire dies out when undisturbed. If you expose him, when he wants you to appear not to have noticed, you will lift the veil of his disease and he will be openly doing wrong. You think that the love of your husband . . . is not up to the moral standard:[^11] for this (high standard) is expected of your relationship. Consider then, that while he visits the hetaera for pleasure, he stays with you as your lifelong companion and that, while his love for you is rational, his love for her is driven by passion. <br> 3\. And an affair of passion is short-lived; as soon as it peaks it becomes too much; it begins and ends quickly. A man who is not entirely evil will not be in love with a hetaera for long. For what is more fruitless than a desire enjoyed unfairly? Therefore, at some point he will realize that he is diminishing his assets and offending decency. No one consciously continues to be self-destructive. Called back to you, then, by a sense of fairness towards you, seeing how his assets have diminished [for at some point he will take note of you], and unable to bear the contempt that comes with moral condemnation, he will soon change his mind. <br> 4\. As for you, my dear, don’t spend your life responding to hetaerae but distinguish yourself by your tactful behavior towards your husband, by care for the household, friendly behavior towards your acquaintances, and tender love for your children. You should not compete with this woman (for it is commendable to extend good rivalry only towards those who are virtuous), but rather prepare yourself to make conciliatory gestures. Noble character incites good will even among enemies, my dear, and only upright standards can achieve respect, and, in this way, it is possible for a woman to surpass her  husband’s authority and be respected instead of serving the enemy.[^12]  <br> 5\. If you tolerate his behavior, he will be more ashamed and will desire reconciliation sooner. He will love you even more tenderly when he recognizes his unfair treatment of you, realizes that you take care of his property, and has proof of your love for him. In the same way that the unpleasant sensations of the body render the moments of respite all the more pleasant, discord among friends leads to more intimate moments of reconciliation. <br> 6\. You, however, must resist the prompts of passion. For it demands that you fall ill from sorrow because of your husband’s illness, that you disregard decency because of his disregard of morals, that you act against your best interests because he is ruining his life. If you yield,[^13] you will give the impression that you have joined him in battle, and by chastising him you also chastise yourself. If you break up with him and leave, you will test another husband, having left the first one, and, should he err in similar matters, again, another husband (for being single is unbearable for young women). Or perhaps you will remain alone without a husband, like a spinster. <br> 7\. So, are you going to neglect your house and ruin your husband? If so, you shall choose a life of pain and suffering. You say that you are defending yourself against the hetaera? She will be careful to avoid you, and were she to defend herself, a woman who does not blush can put up a fight. So, is it good to quarrel with your husband every day? And what is gained? Quarrels and insults do not put an end to irresponsibility, but progressively increase discord. What else? Are you going to plot against him? Please don’t, my dear. The tragedy that contains the sequence of events in which Medea became a criminal has taught us to control jealousy. Just as when one’s eyes are sick, one has to keep one’s hands away from them, so you too avoid interfering with his illness. Through endurance you will put an end to his illness sooner. |
 
 
 [^11]: Städele (1980: 312) ad loc. agrees with Hercher and Westermann that some words are missing after “ἡγῇ” contra Thesleff, who prints the text as is. Städele argues: “Doch gibt die Aussage: ‘Du aber glaubst, daß sich die Liebe deines Mannes nicht in sittlich einwandfreien Verhalten ausdrückt’ im Zusammenhang kein Sinn.” (But the utterance “but you think that your husband’s love does not express itself in a fashion suitable to noble behavior” makes no sense in this context.) Given the frequent references to the husband’s “illness” and “error” (e.g., lines 2–5, 9–12), the thought that the husband’s moral competence is lacking makes perfect sense, even if some words are missing.-DD 
