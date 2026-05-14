@@ -68,7 +68,7 @@ In this letter to Callisto, Theano instructs Callisto on how to manage the ensla
 
 ## Theano to Timareta (Fragment)
 ### Note on Theano to Timareta
-This letter, in contrast to the others, is just a fragment of text. Further complicating study of This letter, in contrast to the others, is just a fragment of text. A complication of the study of Ancient Greek texts is that many did not survive, or survived only partially; this is an example of the latter. The fragment mentions Alexis, a Greek comic poet, and one of his works. It also identifies Theano as the wife of Pythagoras, which is interesting as her identity and relationship to Pythagoras is unclear and often disputed.
+This letter, in contrast to the others, is just a fragment of text. A complication of the study of Ancient Greek texts is that many did not survive, or survived only partially; this is an example of the latter. The fragment mentions Alexis, a Greek comic poet, and one of his works. It also identifies Theano as the wife of Pythagoras, which is interesting as her identity and relationship to Pythagoras is unclear and often disputed.
 
 
 
