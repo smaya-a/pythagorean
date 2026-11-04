@@ -174,7 +174,7 @@ Our deepest gratitude to Professor Dorota Dutsch and Professor Annie Lamar for p
 
 # References
 
-[^1]: Geoffrey Lloyd, “Pythagoras,” in *A History of Pythagoreanism*, ed. Carl A. Huffman (Cambridge: Cambridge University Press, 2014), pp 24-45.  
+[^1]: Carl Huffman, “Pythagoreanism,” The Stanford Encyclopedia of Philosophy (Summer 2024).  
 [^2]: Leonid Zhmud, “The Papyrological Tradition on Pythagoras and the Pythagoreans,” in *Presocratics and Papyrological Tradition* (2016), pp. 137; Bruno Centrone, “The Pseudo-Pythagorean Writings,” in *A History of Pythagoreanism*, ed. Carl Huffman (New York: Cambridge University Press, 2014), 315.
 [^3]: Carl Huffman, “Pythagoreanism,” _The Stanford Encyclopedia of Philosophy_ (Summer 2024).  
 [^4]: Dorota M. Dutsch, "Introduction," _Pythagorean Women Philosophers_ (Oxford: Oxford University Press, 2020), pp. 1-16.
