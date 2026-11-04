@@ -116,6 +116,8 @@ Blundell, Sue. *Women in Ancient Greece.* British Museum Press, 1995.
 
 Brill, Sara, and Catherine McKeen, eds. *The Routledge Handbook of Women and Ancient Greek Philosophy.* 1st ed. New York: Routledge, 2024. https://doi.org/10.4324/9781003047858.
 
+Centrone, Bruno. “The Pseudo-Pythagorean Writings.” In _A History of Pythagoreanism_, edited by Carl A. Huffman. Cambridge University Press, 2014.
+
 Chrystal, Paul. *Women in Ancient Greece: Seclusion, Exclusion, or Illusion?* Fonthill Media, 2017.
 
 Dutsch, Dorota M. *Pythagorean Women Philosophers: Between Belief and Suspicion*, Oxford Studies in Classical Literature and Gender Theory (Oxford, 2020; online edn, Oxford Academic, 19 Nov. 2020), https://doi.org/10.1093/oso/9780198859031.003.0001, accessed 12 Nov. 2025.
@@ -173,7 +175,7 @@ Our deepest gratitude to Professor Dorota Dutsch and Professor Annie Lamar for p
 # References
 
 [^1]: Geoffrey Lloyd, “Pythagoras,” in *A History of Pythagoreanism*, ed. Carl A. Huffman (Cambridge: Cambridge University Press, 2014), pp 24-45.  
-[^2]: Leonid Zhmud, “The Papyrological Tradition on Pythagoras and the Pythagoreans,” in _Presocratics and Papyrological Tradition_ (2016), pp. 111-146. 
+[^2]: Leonid Zhmud, “The Papyrological Tradition on Pythagoras and the Pythagoreans,” in *Presocratics and Papyrological Tradition* (2016), pp. 137; Bruno Centrone, “The Pseudo-Pythagorean Writings,” in *A History of Pythagoreanism*, ed. Carl Huffman (New York: Cambridge University Press, 2014), 315.
 [^3]: Carl Huffman, “Pythagoreanism,” _The Stanford Encyclopedia of Philosophy_ (Summer 2024).  
 [^4]: Dorota M. Dutsch, "Introduction," _Pythagorean Women Philosophers_ (Oxford: Oxford University Press, 2020), pp. 1-16.
 [^5]: Sarah B. Pomeroy, _Goddesses, Whores, Wives, and Slaves_ (New York: Schocken, 1975), pp. 67-68; 70-71. 
