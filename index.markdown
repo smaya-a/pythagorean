@@ -108,12 +108,6 @@ In her own approach, Dutsch presents the material in a format that reflects how 
 
 # Bibliography
 
-Aristotle. *Generation of Animals.* Translated by A. L. Peck. Cambridge, MA: Harvard University Press, 1942.  
-
-Aristotle. *Politics.* Translated by C. D. C. Reeve. Indianapolis: Hackett Publishing, 1998.
-
-Blundell, Sue. *Women in Ancient Greece.* British Museum Press, 1995.
-
 Brill, Sara, and Catherine McKeen, eds. *The Routledge Handbook of Women and Ancient Greek Philosophy.* 1st ed. New York: Routledge, 2024. https://doi.org/10.4324/9781003047858.
 
 Centrone, Bruno. “The Pseudo-Pythagorean Writings.” In _A History of Pythagoreanism_, edited by Carl A. Huffman. Cambridge University Press, 2014.
@@ -124,15 +118,11 @@ Dutsch, Dorota M. *Pythagorean Women Philosophers: Between Belief and Suspicion*
 
 Ellis, Marialeen. “Dominated, Denied, and Debauched:  The Lives and Roles of Women in Classical Athens.” *Vulcan Historical Review* 17 (2013). https://digitalcommons.library.uab.edu/vulcan/vol17/iss2013/6?utm_source=digitalcommons.library.uab.edu%2Fvulcan%2Fvol17%2Fiss2013%2F6&utm_medium=PDF&utm_campaign=PDFCoverPages.
 
-Fricker, Miranda. *Epistemic Injustice: Power and the Ethics of Knowing.* Oxford University Press, 2007.
-
 Hemingway, Colette. “Women in Classical Greece.” Heilbrunn Timeline of Art History, The Metropolitan Museum of Art, 2004. https://www.metmuseum.org/essays/women-in-classical-greece.
 
 Hercher, Rudolph. 1821–78. *Epistolographi graeci*, recensuit, recognovit, adnotatione critica et indicibus instruxit Rudolphus Hercher: accedunt Francisci Boissonadii ad Synesium notae ineditae. Paris: A.F. Didot.
 
 Huffman, Carl A., ed. *A History of Pythagoreanism.* Cambridge University Press, 2014.
-
-Huffman, Carl A. “Philolaus.” *The Stanford Encyclopedia of Philosophy* (Winter 2024). https://plato.stanford.edu/entries/philolaus/.
 
 Huffman, Carl A. “Pythagoreanism.” *The Stanford Encyclopedia of Philosophy* (Summer 2024). https://plato.stanford.edu/archives/sum2024/entries/pythagoreanism/.
 
@@ -141,10 +131,6 @@ Huizenga, Annette. *Moral Education for Women in the Pastoral and Pythagorean Le
 Pelló, Caterina. *Pythagorean Women.* Cambridge University Press, 2022. 
 
 Pelló, Caterina. “Pythagorean Women: An Example of Female Philosophical Protreptics” in *The Routledge Handbook of Women and Ancient Greek Philosophy*, edited by Sara Brill and Catherine McKeen. Routledge, 2024. 
-
-Plato. "Menexenus." In *Plato: Complete Works*, edited by John M. Cooper and D. S. Hutchinson, 1234–1260. Indianapolis: Hackett Publishing, 1997.
-
-Plato, *Meno*. Translated by Benjamin Jowett. Internet Archive. Accessed November 11, 2025. https://classics.mit.edu/Plato/meno.html.
 
 Plato. *Republic*. Translated by G. M. A. Grube and C. D. C. Reeve. Indianapolis: Hackett Publishing, 1992.
 
@@ -159,8 +145,6 @@ Städele, Alfons. *Die Briefe des Pythagoras und der Pythagoreer.* Meisenheim am
 Thesleff, William. *The Pythagorean Texts of the Hellenistic Period*. Åbo: Åbo Akademi. 
 
 Warren, James, ed. *The Cambridge Companion to Epicureanism.* Cambridge University Press, 2009.
-
-Xenophon, *Oeconomicus*, quoted in Ellis, Marialeen,  “Dominated, Denied, and Debauched”:  The Lives and Roles of Women in Classical Athens.” *Vulcan Historical Review* 17 (2013). https://digitalcommons.library.uab.edu/vulcan/vol17/iss2013/6?utm_source=digitalcommons.library.uab.edu%2Fvulcan%2Fvol17%2Fiss2013%2F6&utm_medium=PDF&utm_campaign=PDFCoverPages.
 
 Zhmud, Leonid. "The Papyrological Tradition on Pythagoras and the Pythagoreans." In *Presocratics and Papyrological Tradition: A Philosophical Reappraisal of the Sources, Proceedings of the International Workshop held at the University of Trier (22-24 September 2016)*, edited by Christian Vassallo. Berlin: ISSN. https://philarchive.org/rec/ZHMTP.
 
